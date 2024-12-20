@@ -1,26 +1,18 @@
 // Lista de juegos
 const juegos = [
     {
-        id: "Animal Crossing New Horizons",
+        id: "Adventure Time - The Secret of the Nameless Kingdom",
         imgSrc: "assets/img/animalcrosing.jpg",
-        altText: "Animal Crossing New Horizons",
-        title: "Animal Crossing New Horizons+ UPDATE+ 3DLC.XCI",
+        altText: "Adventure Time - The Secret of the Nameless Kingdom",
+        title: "Adventure Time - The Secret of the Nameless Kingdom (Europe) (En).3ds",
         downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
     },       
     {
-        id: "Another Code Recollection",
-        imgSrc: "assets/img/another.jpg",
-        altText: "Another Code Recollection",
-        title: "Another Code Recollection.XCI",
-        downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
-        
-    },       
-    {
         id: "Amazing Spider-Man, The",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/another.jpg",
         altText: "Amazing Spider-Man, The",
         title: "Amazing Spider-Man, The (USA) (En,Fr,Es).3ds",
-        downloadLink2: "KKK" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
 
     },       
     {
@@ -959,14 +951,6 @@ const juegos = [
         altText: "Super Street Fighter IV - 3D Edition",
         title: "Super Street Fighter IV - 3D Edition (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
-        
-    },       
-    {
-        id: "Dark Souls Remastered",
-        imgSrc: "assets/img/darksoulsremastered.jpg",
-        altText: "Dark Souls Remastered",
-        title: "Dark Souls Remastered.NSP",
-        downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
 
     },       
     {
