@@ -217,7 +217,7 @@ const juegos = [
     },       
     {
         id: "Fire Emblem Fates - Limited Edition",
-        imgSrc: "assets/img/jjj.jpg",
+        imgSrc: "assets/img/firelimited.jpg",
         altText: "Fire Emblem Fates - Limited Edition",
         title: "Fire Emblem Fates - Limited Edition (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
