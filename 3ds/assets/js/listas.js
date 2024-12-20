@@ -1,6 +1,5 @@
 // Lista de juegos
 const juegos = [
-    
     {
         id: "Adventure Time - The Secret of the Nameless Kingdom",
         imgSrc: "assets/img/adventure.jpg",
