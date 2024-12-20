@@ -967,6 +967,31 @@ const juegos = [
         altText: "Dark Souls Remastered",
         title: "Dark Souls Remastered.NSP",
         downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Teenage Mutant Ninja Turtles - Danger of the Ooze",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Teenage Mutant Ninja Turtles - Danger of the Ooze",
+        title: "Teenage Mutant Ninja Turtles - Danger of the Ooze (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Tekken 3D - Prime Edition",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Tekken 3D - Prime Edition",
+        title: "Tekken 3D - Prime Edition (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Terraria",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Terraria",
+        title: "Terraria (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
     }
 ];
 
