@@ -2,14 +2,14 @@
 const juegos = [
     {
         id: "Adventure Time - The Secret of the Nameless Kingdom",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/adventure.jpg",
         altText: "Adventure Time - The Secret of the Nameless Kingdom",
         title: "Adventure Time - The Secret of the Nameless Kingdom (Europe) (En).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga        
     },       
     {
         id: "Amazing Spider-Man, The",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/spiderman.jpg",
         altText: "Amazing Spider-Man, The",
         title: "Amazing Spider-Man, The (USA) (En,Fr,Es).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -17,7 +17,7 @@ const juegos = [
     },       
     {
         id: "Amazing Spider-Man 2, The",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/spiderman2.jpg",
         altText: "Amazing Spider-Man 2, The",
         title: "Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -26,7 +26,7 @@ const juegos = [
     },       
     {
         id: "Angry Birds Trilogy",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/angry.jpg",
         altText: "Angry Birds Trilogy",
         title: "Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KK" // Segundo enlace de descarga
@@ -34,7 +34,7 @@ const juegos = [
     },       
     {
         id: "Animal Crossing - New Leaf",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/animal.jpg",
         altText: "Animal Crossing - New Leaf",
         title: "Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -42,7 +42,7 @@ const juegos = [
     },       
     {
         id: "Asphalt 3D",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/asphalt.jpg",
         altText: "Asphalt 3D",
         title: "Asphalt 3D (USA) (En,Fr,Es).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -50,7 +50,7 @@ const juegos = [
     },       
     {
         id: "Batman - Arkham Origins Blackgate",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/batman.jpg",
         altText: "Batman - Arkham Origins Blackgate",
         title: "Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -58,7 +58,7 @@ const juegos = [
     },       
     {
         id: "Captain America - Super Soldier",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/capitan.jpg",
         altText: "Captain America - Super Soldier",
         title: "Captain America - Super Soldier (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -66,7 +66,7 @@ const juegos = [
     },       
     {
         id: "Cars 2",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/cars2.jpg",
         altText: "Cars 2",
         title: "Cars 2 (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -74,7 +74,7 @@ const juegos = [
     },       
     {
         id: "Detective Pikachu",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/detective.jpg",
         altText: "Detective Pikachu",
         title: "Detective Pikachu (Europe) (En,Ja,Fr,De,Es,It,Zh).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -82,7 +82,7 @@ const juegos = [
     },       
     {
         id: "Disney Epic Mickey - Power of Illusion",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/epicmickeyr.jpg",
         altText: "Disney Epic Mickey - Power of Illusion",
         title: "Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -90,7 +90,7 @@ const juegos = [
     },       
     {
         id: "Disney Planes",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/planes.jpg",
         altText: "Disney Planes",
         title: "Disney Planes (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -98,7 +98,7 @@ const juegos = [
     },       
     {
         id: "Donkey Kong Country Returns 3D",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/donkey.jpg",
         altText: "Donkey Kong Country Returns 3D",
         title: "Donkey Kong Country Returns 3D (USA) (En,Fr,Es).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -106,7 +106,7 @@ const juegos = [
     },       
     {
         id: "Dragon Ball Fusions",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/dbfusions.jpg",
         altText: "Dragon Ball Fusions",
         title: "Dragon Ball Fusions (USA).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -114,7 +114,7 @@ const juegos = [
     },       
     {
         id: "Dragon Ball Z - Extreme Butoden",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/dbextreme.jpg",
         altText: "Dragon Ball Z - Extreme Butoden",
         title: "Dragon Ball Z - Extreme Butoden.3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -122,7 +122,7 @@ const juegos = [
     },       
     {
         id: "Dragon Quest VIII - Journey of the Cursed King",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/dragonquest.jpg",
         altText: "Dragon Quest VIII - Journey of the Cursed King",
         title: "Dragon Quest VIII - Journey of the Cursed King (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -130,7 +130,7 @@ const juegos = [
     },       
     {
         id: "Dream Trigger 3D",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/dreamteam.jpg",
         altText: "Dream Trigger 3D",
         title: "Dream Trigger 3D (Europe) (En,Fr,Es).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -138,7 +138,7 @@ const juegos = [
     },       
     {
         id: "Driver - Renegade 3D",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/driver.jpg",
         altText: "Driver - Renegade 3D",
         title: "Driver - Renegade 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
