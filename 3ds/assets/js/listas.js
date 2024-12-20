@@ -16,27 +16,27 @@ const juegos = [
         
     },       
     {
-        id: "Bayonetta 3",
+        id: "Amazing Spider-Man, The",
         imgSrc: "assets/img/bayonetta3.jpg",
-        altText: "Bayonetta 3",
-        title: "Bayonetta 3.XCI",
-        downloadLink2: "https://cuty.io/Ut2KmTbW" // Segundo enlace de descarga
+        altText: "Amazing Spider-Man, The",
+        title: "Amazing Spider-Man, The (USA) (En,Fr,Es).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
 
     },       
     {
-        id: "Bayonetta Origins: Cereza and the Lost Demon",
+        id: "Amazing Spider-Man 2, The",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Amazing Spider-Man 2, The",
+        title: "Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga        
+
+    },       
+    {
+        id: "Angry Birds Trilogy",
         imgSrc: "assets/img/bayonettaorigins.jpg",
-        altText: "Bayonetta Origins: Cereza and the Lost Demon",
-        title: "Bayonetta Origins: Cereza and the Lost Demon.XCI",
-        downloadLink2: "https://cuty.io/JwP2z53xS5ni" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Cadence of Hyrule Crypt",
-        imgSrc: "assets/img/cadenceofhyrule.jpg",
-        altText: "Cadence of Hyrule Crypt",
-        title: "Cadence of Hyrule Crypt.XCI",
-        downloadLink2: "https://cuty.io/IsJl6odZ" // Segundo enlace de descarga
+        altText: "Angry Birds Trilogy",
+        title: "Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KK" // Segundo enlace de descarga
 
     },       
     {
