@@ -433,6 +433,311 @@ const juegos = [
 
     },       
     {
+        id: "Luigi's Mansion - Dark Moon",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Luigi's Mansion - Dark Moon",
+        title: "Luigi's Mansion - Dark Moon (USA) (En,Fr,Es).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
+        title: "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario & Luigi - Dream Team Bros",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Mario & Luigi - Dream Team Bros",
+        title: "Mario & Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Mario & Luigi - Paper Jam Bros",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Mario & Luigi - Paper Jam Bros",
+        title: "Mario & Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario & Sonic at the London 2012 Olympic Games",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Mario & Sonic at the London 2012 Olympic Games",
+        title: "Mario & Sonic at the London 2012 Olympic Games (Europe) (En,Fr,De,Es,It,Nl).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario and Donkey Kong - Minis on the Move",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Mario and Donkey Kong - Minis on the Move",
+        title: "Mario and Donkey Kong - Minis on the Move (Europe) (En,Fr,De,Es,It) (eShop).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Mario Kart 7.3ds",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Mario Kart 7.3ds",
+        title: "Mario Kart 7.3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario Party - Island Tour",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Mario Party - Island Tour",
+        title: "Mario Party - Island Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario Tennis Open",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Mario Tennis Open",
+        title: "Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mega Man Legacy Collection.3ds",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Mega Man Legacy Collection.3ds",
+        title: "Mega Man Legacy Collection (USA).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Metal Gear Solid 3D - Snake Eater",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Metal Gear Solid 3D - Snake Eater",
+        title: "Metal Gear Solid 3D - Snake Eater (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Metroid - Samus Returns",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Metroid - Samus Returns",
+        title: "Metroid - Samus Returns (USA) (En,Fr,Es).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Metroid Prime - Federation Force",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Metroid Prime - Federation Force",
+        title: "Metroid Prime - Federation Force (USA) (En,Fr,Es).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Minecraft - New Nintendo 3DS Edition",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Minecraft - New Nintendo 3DS Edition",
+        title: "Minecraft - New Nintendo 3DS Edition (USA).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Monster Hunter 4 Ultimate",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Monster Hunter 4 Ultimate",
+        title: "Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Naruto Powerful Shippuden",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Naruto Powerful Shippuden",
+        title: "Naruto Powerful Shippuden (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Naruto Shippuden 3D - The New Era",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Naruto Shippuden 3D - The New Era",
+        title: "Naruto Shippuden 3D - The New Era (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "NASCAR Unleashed.3ds",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "NASCAR Unleashed.3ds",
+        title: "NASCAR Unleashed (USA).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Need for Speed - The Run",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Need for Speed - The Run",
+        title: "Need for Speed - The Run (USA) (En,Fr,Es).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "New Super Mario Bros. 2",
+        imgSrc: "assets/img/another.jpg",
+        altText: "New Super Mario Bros. 2",
+        title: "New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "One Piece - Unlimited Cruise SP",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "One Piece - Unlimited Cruise SP",
+        title: "One Piece - Unlimited Cruise SP (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "One Piece - Unlimited Cruise SP2",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "One Piece - Unlimited Cruise SP2",
+        title: "One Piece - Unlimited Cruise SP2 (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "One Piece - Unlimited World Red",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "One Piece - Unlimited World Red",
+        title: "One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pac-Man & Galaga Dimensions",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pac-Man & Galaga Dimensions",
+        title: "Pac-Man & Galaga Dimensions (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pac-Man and the Ghostly Adventures",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Pac-Man and the Ghostly Adventures",
+        title: "Pac-Man and the Ghostly Adventures (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Pac-Man and the Ghostly Adventures 2",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Pac-Man and the Ghostly Adventures 2",
+        title: "Pac-Man and the Ghostly Adventures 2 (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pac-Man Party 3D",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pac-Man Party 3D",
+        title: "Pac-Man Party 3D (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Paper Mario - Sticker Star",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Paper Mario - Sticker Star",
+        title: "Paper Mario - Sticker Star (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Pokemon Alpha Sapphire",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Pokemon Alpha Sapphire",
+        title: "Pokemon Alpha Sapphire (Europe) (En,Ja,Fr,De,Es,It,Ko) (Rev 2).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pokemon Moon",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pokemon Moon",
+        title: "Pokemon Moon (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pokemon Omega Ruby",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pokemon Omega Ruby",
+        title: "Pokemon Omega Ruby (Europe) (En,Ja,Fr,De,Es,It,Ko) (Rev 2).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pokemon Rumble World",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Pokemon Rumble World",
+        title: "Pokemon Rumble World (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Pokemon Sun",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Pokemon Sun",
+        title: "Pokemon Sun (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pokemon Super Mystery Dungeon",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Pokemon Super Mystery Dungeon",
+        title: "Pokemon Super Mystery Dungeon (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+
+    },       
+    {
+        id: "Pokemon Ultra Moon",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pokemon Ultra Moon",
+        title: "Pokemon Ultra Moon (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).3ds",
+        downloadLink2: "KK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pokemon Ultra Sun",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Pokemon Ultra Sun",
+        title: "Pokemon Ultra Sun (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Pokemon X",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Pokemon X",
+        title: "Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pokemon Y",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pokemon Y",
+        title: "Pokemon Y (Europe) (En,Ja,Fr,De,Es,It,Ko).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Dark Souls Remastered",
         imgSrc: "assets/img/darksoulsremastered.jpg",
         altText: "Dark Souls Remastered",
