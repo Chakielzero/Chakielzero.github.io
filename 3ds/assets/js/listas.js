@@ -738,6 +738,358 @@ const juegos = [
 
     },       
     {
+        id: "Poochy & Yoshi's Woolly World",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Poochy & Yoshi's Woolly World",
+        title: "Poochy & Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Power Rangers - Megaforce",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Power Rangers - Megaforce",
+        title: "Power Rangers - Megaforce (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pro Evolution Soccer 2011 3D",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Pro Evolution Soccer 2011 3D",
+        title: "Pro Evolution Soccer 2011 3D (Europe) (Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pro Evolution Soccer 2012 3D",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Pro Evolution Soccer 2012 3D",
+        title: "Pro Evolution Soccer 2012 3D (Europe) (Es,It,Pt,El).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Pro Evolution Soccer 2013 3D",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Pro Evolution Soccer 2013 3D",
+        title: "Pro Evolution Soccer 2013 3D (Europe) (Es,It,Pt,El).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Project X Zone (Europe).3ds",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Project X Zone (Europe).3ds",
+        title: "Project X Zone (Europe).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Project X Zone 2",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Project X Zone 2",
+        title: "Project X Zone 2 (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Rabbids Rumble",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Rabbids Rumble",
+        title: "Rabbids Rumble (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Rayman 3D",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Rayman 3D",
+        title: "Rayman 3D (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Rayman Origins",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Rayman Origins",
+        title: "Rayman Origins (Europe) (En,Fr,De,Es,It,Nl).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Regular Show - Mordecai and Rigby in 8-bit Land",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Regular Show - Mordecai and Rigby in 8-bit Land",
+        title: "Regular Show - Mordecai and Rigby in 8-bit Land (Europe).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Resident Evil - Revelations",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Resident Evil - Revelations",
+        title: "Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Resident Evil - The Mercenaries 3D",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Resident Evil - The Mercenaries 3D",
+        title: "Resident Evil - The Mercenaries 3D (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Ridge Racer 3D",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Ridge Racer 3D",
+        title: "Ridge Racer 3D (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Shantae and the Pirate's Curse",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Shantae and the Pirate's Curse",
+        title: "Shantae and the Pirate's Curse (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Shinobi",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Shinobi",
+        title: "Shinobi (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Shovel Knight.3ds",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Shovel Knight.3ds",
+        title: "Shovel Knight (USA).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sonic & All-Stars Racing Transformed",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Sonic & All-Stars Racing Transformed",
+        title: "Sonic & All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Sonic Boom - Fire & Ice",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Sonic Boom - Fire & Ice",
+        title: "Sonic Boom - Fire & Ice (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sonic Boom - Shattered Crystal",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Sonic Boom - Shattered Crystal",
+        title: "Sonic Boom - Shattered Crystal (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sonic Generations",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Sonic Generations",
+        title: "Sonic Generations (USA) (En,Fr,Es).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Spider-Man - Edge of Time",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Spider-Man - Edge of Time",
+        title: "Spider-Man - Edge of Time (Europe) (En,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "SpongeBob SquarePants - Plankton's Robotic Revenge",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "SpongeBob SquarePants - Plankton's Robotic Revenge",
+        title: "SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Star Fox 64 3D",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Star Fox 64 3D",
+        title: "Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 3).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario 3D Land",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Super Mario 3D Land",
+        title: "Super Mario 3D Land (USA) (En,Fr,Es).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario Maker for Nintendo 3DS",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Super Mario Maker for Nintendo 3DS",
+        title: "Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "SUPER SMASH BROS EUR.3ds",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "SUPER SMASH BROS EUR.3ds",
+        title: "SUPER SMASH BROS EUR.3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Street Fighter IV - 3D Edition",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Super Street Fighter IV - 3D Edition",
+        title: "Super Street Fighter IV - 3D Edition (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Teenage Mutant Ninja Turtles - Danger of the Ooze",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Teenage Mutant Ninja Turtles - Danger of the Ooze",
+        title: "Teenage Mutant Ninja Turtles - Danger of the Ooze (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Tekken 3D - Prime Edition",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Tekken 3D - Prime Edition",
+        title: "Tekken 3D - Prime Edition (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Terraria",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Terraria",
+        title: "Terraria (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Tetris Ultimate,
+        imgSrc: "assets/img/another.jpg",
+        altText: "Tetris Ultimate",
+        title: "Tetris Ultimate (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "The Legend of Zelda - Ocarina of Time 3D",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "The Legend of Zelda - Ocarina of Time 3D",
+        title: "The Legend of Zelda - Ocarina of Time 3D.3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "The Legend of Zelda - Twilight Princess",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "The Legend of Zelda - Twilight Princess",
+        title: "The Legend of Zelda - Twilight Princess (World) (En,Ja,Fr,De,Es,It) (eShop).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Tom Clancy's Ghost Recon - Shadow Wars",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Tom Clancy's Ghost Recon - Shadow Wars",
+        title: "Tom Clancy's Ghost Recon - Shadow Wars (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Transformers - Dark of the Moon - Stealth Force Edition",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Transformers - Dark of the Moon - Stealth Force Edition",
+        title: "Transformers - Dark of the Moon - Stealth Force Edition (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Transformers Prime - The Game",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Transformers Prime - The Game",
+        title: "Transformers Prime - The Game (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Turbo - Super Stunt Squad",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Turbo - Super Stunt Squad",
+        title: "Turbo - Super Stunt Squad (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "WarioWare Gold",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "WarioWare Gold",
+        title: "WarioWare Gold (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "WWE All Stars",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "WWE All Stars",
+        title: "WWE All Stars (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Xenoblade Chronicles 3D",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Xenoblade Chronicles 3D",
+        title: "Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Yo-Kai Watch.3ds",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Yo-Kai Watch.3ds",
+        title: "Yo-Kai Watch.3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Yoshi's New Island",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Yoshi's New Island",
+        title: "Yoshi's New Island (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "ZELDA Majoras Maks.3ds",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "ZELDA Majoras Maks.3ds",
+        title: "ZELDA Majoras Maks.3ds",
+        downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Dark Souls Remastered",
         imgSrc: "assets/img/darksoulsremastered.jpg",
         altText: "Dark Souls Remastered",
