@@ -322,7 +322,7 @@ const juegos = [
     },       
     {
         id: "Legend of Zelda, The - A Link Between Worlds",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/zeldalinkbetween.jpg",
         altText: "Legend of Zelda, The - A Link Between Worlds",
         title: "Legend of Zelda, The - A Link Between Worlds (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -330,7 +330,7 @@ const juegos = [
     },       
     {
         id: "Legend of Zelda, The - Tri Force Heroes",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/zeldatriforce.jpg",
         altText: "Legend of Zelda, The - Tri Force Heroes",
         title: "Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -338,7 +338,7 @@ const juegos = [
     },       
     {
         id: "LEGO Batman 3 - Beyond Gotham",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/legobatman3.jpg",
         altText: "LEGO Batman 3 - Beyond Gotham",
         title: "LEGO Batman 3 - Beyond Gotham (Europe) (En,Fr,De,Es,It,Nl,Da).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
