@@ -2,14 +2,14 @@
 const juegos = [
     {
         id: "Adventure Time - The Secret of the Nameless Kingdom",
-        imgSrc: "assets/img/animalcrosing.jpg",
+        imgSrc: "assets/img/adventure.jpg",
         altText: "Adventure Time - The Secret of the Nameless Kingdom",
         title: "Adventure Time - The Secret of the Nameless Kingdom (Europe) (En).3ds",
         downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
     },       
     {
         id: "Amazing Spider-Man, The",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/spiderman.jpg",
         altText: "Amazing Spider-Man, The",
         title: "Amazing Spider-Man, The (USA) (En,Fr,Es).3ds",
         downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
@@ -17,7 +17,7 @@ const juegos = [
     },       
     {
         id: "Amazing Spider-Man 2, The",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/spiderman2.jpg",
         altText: "Amazing Spider-Man 2, The",
         title: "Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga        
@@ -25,7 +25,7 @@ const juegos = [
     },       
     {
         id: "Angry Birds Trilogy",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/angry.jpg",
         altText: "Angry Birds Trilogy",
         title: "Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KK" // Segundo enlace de descarga
@@ -33,7 +33,7 @@ const juegos = [
     },       
     {
         id: "Animal Crossing - New Leaf",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/animal.jpg",
         altText: "Animal Crossing - New Leaf",
         title: "Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -41,7 +41,7 @@ const juegos = [
     },       
     {
         id: "Asphalt 3D",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/asphalt.jpg",
         altText: "Asphalt 3D",
         title: "Asphalt 3D (USA) (En,Fr,Es).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -49,7 +49,7 @@ const juegos = [
     },       
     {
         id: "Batman - Arkham Origins Blackgate",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/batman.jpg",
         altText: "Batman - Arkham Origins Blackgate",
         title: "Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -57,7 +57,7 @@ const juegos = [
     },       
     {
         id: "Captain America - Super Soldier",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/capitan.jpg",
         altText: "Captain America - Super Soldier",
         title: "Captain America - Super Soldier (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -65,7 +65,7 @@ const juegos = [
     },       
     {
         id: "Cars 2",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/cars2.jpg",
         altText: "Cars 2",
         title: "Cars 2 (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -73,7 +73,7 @@ const juegos = [
     },       
     {
         id: "Detective Pikachu",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/detective.jpg",
         altText: "Detective Pikachu",
         title: "Detective Pikachu (Europe) (En,Ja,Fr,De,Es,It,Zh).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -81,7 +81,7 @@ const juegos = [
     },       
     {
         id: "Disney Epic Mickey - Power of Illusion",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/epicmickey.jpg",
         altText: "Disney Epic Mickey - Power of Illusion",
         title: "Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -89,7 +89,7 @@ const juegos = [
     },       
     {
         id: "Disney Planes",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/planes.jpg",
         altText: "Disney Planes",
         title: "Disney Planes (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -97,7 +97,7 @@ const juegos = [
     },       
     {
         id: "Donkey Kong Country Returns 3D",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/donkey.jpg",
         altText: "Donkey Kong Country Returns 3D",
         title: "Donkey Kong Country Returns 3D (USA) (En,Fr,Es).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -105,7 +105,7 @@ const juegos = [
     },       
     {
         id: "Dragon Ball Fusions",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/dbfusions.jpg",
         altText: "Dragon Ball Fusions",
         title: "Dragon Ball Fusions (USA).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -113,7 +113,7 @@ const juegos = [
     },       
     {
         id: "Dragon Ball Z - Extreme Butoden",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/dbextreme.jpg",
         altText: "Dragon Ball Z - Extreme Butoden",
         title: "Dragon Ball Z - Extreme Butoden.3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -121,7 +121,7 @@ const juegos = [
     },       
     {
         id: "Dragon Quest VIII - Journey of the Cursed King",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/dragonquest.jpg",
         altText: "Dragon Quest VIII - Journey of the Cursed King",
         title: "Dragon Quest VIII - Journey of the Cursed King (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -129,7 +129,7 @@ const juegos = [
     },       
     {
         id: "Dream Trigger 3D",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/dreamteam.jpg",
         altText: "Dream Trigger 3D",
         title: "Dream Trigger 3D (Europe) (En,Fr,Es).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -137,7 +137,7 @@ const juegos = [
     },       
     {
         id: "Driver - Renegade 3D",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/driver.jpg",
         altText: "Driver - Renegade 3D",
         title: "Driver - Renegade 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -145,7 +145,7 @@ const juegos = [
     },       
     {
         id: "F1 2011",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/f1.jpg",
         altText: "F1 2011",
         title: "F1 2011 (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -153,7 +153,7 @@ const juegos = [
     },       
     {
         id: "Farming Simulator 18",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/farming.jpg",
         altText: "Farming Simulator 18",
         title: "Farming Simulator 18 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -161,7 +161,7 @@ const juegos = [
     },       
     {
         id: "Fast & Furious - Showdown",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/fastyfurius.jpg",
         altText: "Fast & Furious - Showdown",
         title: "Fast & Furious - Showdown (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -169,7 +169,7 @@ const juegos = [
     },       
     {
         id: "FIFA Soccer 12",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/fifa12.jpg",
         altText: "FIFA Soccer 12.3ds",
         title: "FIFA Soccer 12 (USA) (En,Fr,Es).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -177,7 +177,7 @@ const juegos = [
     },       
     {
         id: "FIFA Soccer 13",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/fifa13.jpg",
         altText: "FIFA Soccer 13",
         title: "FIFA Soccer 13 (USA) (En,Fr,Es).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -185,7 +185,7 @@ const juegos = [
     },       
     {
         id: "FIFA 14 - Legacy Edition",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/fifa14.jpg",
         altText: "FIFA 14 - Legacy Edition",
         title: "FIFA 14 - Legacy Edition (Europe) (De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -193,7 +193,7 @@ const juegos = [
     },       
     {
         id: "FIFA 15 - Legacy Edition",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/fifa15.jpg",
         altText: "FIFA 15 - Legacy Edition",
         title: "FIFA 15 - Legacy Edition (Europe) (De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -201,7 +201,7 @@ const juegos = [
     },       
     {
         id: "Fire Emblem - Awakening",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/fireawa.jpg",
         altText: "Fire Emblem - Awakening",
         title: "Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -209,7 +209,7 @@ const juegos = [
     },       
     {
         id: "Fire Emblem Echoes - Shadows of Valentia",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/fireechoes.jpg",
         altText: "Fire Emblem Echoes - Shadows of Valentia",
         title: "Fire Emblem Echoes - Shadows of Valentia (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -217,7 +217,7 @@ const juegos = [
     },       
     {
         id: "Fire Emblem Fates - Limited Edition",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/jjj.jpg",
         altText: "Fire Emblem Fates - Limited Edition",
         title: "Fire Emblem Fates - Limited Edition (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -225,7 +225,7 @@ const juegos = [
     },       
     {
         id: "Gravity Falls - Legend of the Gnome Gemulets",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/gravity.jpg",
         altText: "Gravity Falls - Legend of the Gnome Gemulets",
         title: "Gravity Falls - Legend of the Gnome Gemulets (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -233,7 +233,7 @@ const juegos = [
     },       
     {
         id: "Green Lantern - Rise of the Manhunters",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/green.jpg",
         altText: "Green Lantern - Rise of the Manhunters",
         title: "Green Lantern - Rise of the Manhunters (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -241,7 +241,7 @@ const juegos = [
     },       
     {
         id: "Hey! Pikmin",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/heypikmin.jpg",
         altText: "Hey! Pikmin",
         title: "Hey! Pikmin (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -249,7 +249,7 @@ const juegos = [
     },       
     {
         id: "Hot Wheels - World's Best Driver",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/hot.jpg",
         altText: "Hot Wheels - World's Best Driver",
         title: "Hot Wheels - World's Best Driver (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -257,7 +257,7 @@ const juegos = [
     },       
     {
         id: "Hyrule Warriors Legends",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/hyrule.jpg",
         altText: "Hyrule Warriors Legends",
         title: "Hyrule Warriors Legends (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -265,7 +265,7 @@ const juegos = [
     },       
     {
         id: "Kid Icarus - Uprising.3ds",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/kidicarus.jpg",
         altText: "Kid Icarus - Uprising.3ds",
         title: "Kid Icarus - Uprising.3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -274,7 +274,7 @@ const juegos = [
     },       
     {
         id: "Kingdom Hearts 3D - Dream Drop Distance",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/kingdoms.jpg",
         altText: "Kingdom Hearts 3D - Dream Drop Distance",
         title: "Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr).3ds",
         downloadLink2: "KK" // Segundo enlace de descarga
@@ -282,7 +282,7 @@ const juegos = [
     },       
     {
         id: "Kirby - Planet Robobot",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/kirbyrobobot.jpg",
         altText: "Kirby - Planet Robobot",
         title: "Kirby - Planet Robobot (Europe).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -290,7 +290,7 @@ const juegos = [
     },       
     {
         id: "Kirby - Triple Deluxe",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/kirbytriple.jpg",
         altText: "Kirby - Triple Deluxe",
         title: "Kirby - Triple Deluxe (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
@@ -298,7 +298,7 @@ const juegos = [
     },       
     {
         id: "Kirby Battle Royale",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/kirbybattle.jpg",
         altText: "Kirby Battle Royale",
         title: "Kirby Battle Royale (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -306,7 +306,7 @@ const juegos = [
     },       
     {
         id: "Kirby's Extra Epic Yarn",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/kirbyepic.jpg",
         altText: "Kirby's Extra Epic Yarn",
         title: "Kirby's Extra Epic Yarn (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -314,7 +314,7 @@ const juegos = [
     },       
     {
         id: "Kung Fu Panda - Showdown of Legendary Legends",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/kunfupanda.jpg",
         altText: "Kung Fu Panda - Showdown of Legendary Legends",
         title: "Kung Fu Panda - Showdown of Legendary Legends (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "KKK" // Segundo enlace de descarga
