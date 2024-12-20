@@ -2,7 +2,7 @@
 const juegos = [
     {
         id: "Adventure Time - The Secret of the Nameless Kingdom",
-        imgSrc: "assets/img/adventure.jpg",
+        imgSrc: "assets/img/aventure.jpg",
         altText: "Adventure Time - The Secret of the Nameless Kingdom",
         title: "Adventure Time - The Secret of the Nameless Kingdom (Europe) (En).3ds",
         downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
@@ -434,7 +434,7 @@ const juegos = [
     },       
     {
         id: "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
-        imgSrc: "assets/img/marioyluigi.jpg",
+        imgSrc: "assets/img/maroyluigi.jpg",
         altText: "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
         title: "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -1003,7 +1003,7 @@ const juegos = [
     },       
     {
         id: "Tom Clancy's Ghost Recon - Shadow Wars",
-        imgSrc: "assets/img/tomsclancys.jpg",
+        imgSrc: "assets/img/tomclancys.jpg",
         altText: "Tom Clancy's Ghost Recon - Shadow Wars",
         title: "Tom Clancy's Ghost Recon - Shadow Wars (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
@@ -1051,7 +1051,7 @@ const juegos = [
     },       
     {
         id: "Xenoblade Chronicles 3D",
-        imgSrc: "assets/img/xenobale.jpg",
+        imgSrc: "assets/img/xenoblade.jpg",
         altText: "Xenoblade Chronicles 3D",
         title: "Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "hHH" // Segundo enlace de descarga
