@@ -1,5 +1,5 @@
 // Lista de juegos
-const juegos = [     
+const juegos = [ 
     {
         id: "Adventure Time - The Secret of the Nameless Kingdom",
         imgSrc: "assets/img/another.jpg",
@@ -22,7 +22,6 @@ const juegos = [
         altText: "Amazing Spider-Man 2, The",
         title: "Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
-        
 
     },       
     {
