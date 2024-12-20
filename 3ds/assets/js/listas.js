@@ -903,6 +903,62 @@ const juegos = [
         altText: "Sonic Generations",
         title: "Sonic Generations (USA) (En,Fr,Es).3ds",
         downloadLink2: "JJJ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Spider-Man - Edge of Time",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "Spider-Man - Edge of Time",
+        title: "Spider-Man - Edge of Time (Europe) (En,De,Es,It).3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "SpongeBob SquarePants - Plankton's Robotic Revenge",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "SpongeBob SquarePants - Plankton's Robotic Revenge",
+        title: "SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Star Fox 64 3D",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Star Fox 64 3D",
+        title: "Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 3).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario 3D Land",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Super Mario 3D Land",
+        title: "Super Mario 3D Land (USA) (En,Fr,Es).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario Maker for Nintendo 3DS",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Super Mario Maker for Nintendo 3DS",
+        title: "Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "SUPER SMASH BROS EUR.3ds",
+        imgSrc: "assets/img/bayonetta3.jpg",
+        altText: "SUPER SMASH BROS EUR.3ds",
+        title: "SUPER SMASH BROS EUR.3ds",
+        downloadLink2: "KKK" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Street Fighter IV - 3D Edition",
+        imgSrc: "assets/img/bayonettaorigins.jpg",
+        altText: "Super Street Fighter IV - 3D Edition",
+        title: "Super Street Fighter IV - 3D Edition (Europe) (En,Fr,De,Es,It).3ds",
+        downloadLink2: "hHH" // Segundo enlace de descarga
         
     },       
     {
