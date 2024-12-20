@@ -217,7 +217,7 @@ const juegos = [
     },       
     {
         id: "Fire Emblem Echoes - Shadows of Valentia",
-        imgSrc: "assets/img/fireshadow.jpg",
+        imgSrc: "assets/img/fireechoes.jpg",
         altText: "Fire Emblem Echoes - Shadows of Valentia",
         title: "Fire Emblem Echoes - Shadows of Valentia (Europe) (En,Fr,De,Es,It,Nl).3ds",
         downloadLink2: "https://nephobox.com/s/1hF8jWGuaBB-E2vAudcSV6A" // Segundo enlace de descarga
