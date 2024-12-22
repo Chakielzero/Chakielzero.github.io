@@ -706,9 +706,9 @@ const juegos = [
     {
         id: "Tony Hawks Pro Skater 3",
         imgSrc: "assets/img/proskater3.jpg",
-        altText: "Tony Hawks Pro Skater 3",
+        altText: "Tony Hawks Pro Skater 4",
         title: "Tony Hawks Pro Skater 3.chd",
-        downloadLink2: "https://nephobox.com/s/13xToM2YpR6YLhRokmSJ3kg" // Segundo enlace de descarga
+        downloadLink2: "https://nephobox.com/s/1d6KqvXpdMkfEQQ7_szmzYQ" // Segundo enlace de descarga
 
     },       
     {
@@ -725,30 +725,6 @@ const juegos = [
         altText: "X-Men Legends",
         title: "X-Men Legends.chd",
         downloadLink2: "https://nephobox.com/s/1RaeV9qk0hWMfHO1OuFXuCg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Cadence of Hyrule Crypt",
-        imgSrc: "assets/img/cadenceofhyrule.jpg",
-        altText: "Cadence of Hyrule Crypt",
-        title: "Cadence of Hyrule Crypt.XCI",
-        downloadLink2: "https://cuty.io/IsJl6odZ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "CUPHEAD",
-        imgSrc: "assets/img/cuphead.jpg",
-        altText: "CUPHEAD",
-        title: "CUPHEAD.XCI",
-        downloadLink2: "https://cuty.io/pLGzC4" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Dark Souls Remastered",
-        imgSrc: "assets/img/darksoulsremastered.jpg",
-        altText: "Dark Souls Remastered",
-        title: "Dark Souls Remastered.NSP",
-        downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
     }
 ];
 
