@@ -28,7 +28,95 @@ const juegos = [
         imgSrc: "assets/img/bayonettaorigins.jpg",
         altText: "Bayonetta Origins: Cereza and the Lost Demon",
         title: "Bayonetta Origins: Cereza and the Lost Demon.XCI",
-        downloadLink2: "https://cuty.io/JwP2z53xS5ni" // Segundo enlace de descarga   
+        downloadLink2: "https://cuty.io/JwP2z53xS5ni" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Shadow The Hedgehog",
+        imgSrc: "assets/img/shadow.jpg",
+        altText: "Shadow The Hedgehog",
+        title: "Shadow The Hedgehog.chd",
+        downloadLink2: "https://nephobox.com/s/1jgIM--hxBmaIExLk4RMDmg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sly Cooper and the Thievius Raccoonus",
+        imgSrc: "assets/img/sly.jpg",
+        altText: "Sly Cooper and the Thievius Raccoonus",
+        title: "Sly Cooper and the Thievius Raccoonus (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1rI6wfNQcVJTQZ5bc_jLCAA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sly 2 - Band of Thieves",
+        imgSrc: "assets/img/sm64.jpg",
+        altText: "Sly 2 - Band of Thieves",
+        title: "Sly 2 - Band of Thieves (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1GpEMh_Kq616WITOjeTS_kg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sly 3 - Honor Among Thieves",
+        imgSrc: "assets/img/sm64.jpg",
+        altText: "Sly 3 - Honor Among Thieves",
+        title: "Sly 3 - Honor Among Thieves (USA).chd",
+        downloadLink2: "https://nephobox.com/s/121OYNowr56SOj7M9mB-JhA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Silent Hill 2",
+        imgSrc: "assets/img/silenthill2.jpg",
+        altText: "Silent Hill 2",
+        title: "Silent Hill 2.chd",
+        downloadLink2: "https://nephobox.com/s/12a0zvEgUD1gA2RjUFL2H4A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sonic Heroes",
+        imgSrc: "assets/img/sonicheroes.jpg",
+        altText: "Sonic Heroes",
+        title: "Sonic Heroes.chd",
+        downloadLink2: "https://nephobox.com/s/1k5192QlyfUPWYfhWXEjvVQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sonic Unleashed",
+        imgSrc: "assets/img/sonicunleashed.jpg",
+        altText: "Sonic Unleashed",
+        title: "Sonic Unleashed (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1FRFVJ0YIZPn__nTcdPe9MA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Simpsons Hit Run",
+        imgSrc: "assets/img/simpsons.jpg",
+        altText: "Simpsons Hit Run",
+        title: "Simpsons Hit Run.chd",
+        downloadLink2: "JJJ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Spider-Man 3",
+        imgSrc: "assets/img/spiderman3.jpg",
+        altText: "Spider-Man 3",
+        title: "Spider-Man 3.chd",
+        downloadLink2: "https://nephobox.com/s/1O0tAkWS9jtTv3rDwLfqmmw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Spider-Man 2",
+        imgSrc: "assets/img/spiderman2.jpg",
+        altText: "Spider-Man 2",
+        title: "Spider-Man 2.chd",
+        downloadLink2: "https://nephobox.com/s/1ljjxQQYeP5TxiRy8pFo_gw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Spider-Man",
+        imgSrc: "assets/img/spiderman.jpg",
+        altText: "Spider-Man",
+        title: "Spider-Man.chd",
+        downloadLink2: "https://nephobox.com/s/1LaD-zrets1HVMrQTB2HZ8g" // Segundo enlace de descarga
         
     },       
     {
