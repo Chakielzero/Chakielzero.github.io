@@ -29,6 +29,374 @@ const juegos = [
         altText: "Bayonetta Origins: Cereza and the Lost Demon",
         title: "Bayonetta Origins: Cereza and the Lost Demon.XCI",
         downloadLink2: "https://cuty.io/JwP2z53xS5ni" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Chash Twinsanity",
+        imgSrc: "assets/img/chashtwi.jpg",
+        altText: "Chash Twinsanity",
+        title: "Chash Twinsanity.chd",
+        downloadLink2: "https://nephobox.com/s/1anZ6L3XaX9SOwUGYgfG6hA" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Crash Bandicoot - The Wrath of Cortex",
+        imgSrc: "assets/img/chashwrath.jpg",
+        altText: "Crash Bandicoot - The Wrath of Cortex",
+        title: "Crash Bandicoot - The Wrath of Cortex.chd",
+        downloadLink2: "https://nephobox.com/s/12KYfNfU7nB2yEkwb5T2EiA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash Nitro Kart",
+        imgSrc: "assets/img/chashkart.jpg",
+        altText: "Crash Nitro Kart",
+        title: "Crash Nitro Kart.chd",
+        downloadLink2: "https://nephobox.com/s/1joPVSefIVuP6RykNlwG7Ww" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash of the Titans",
+        imgSrc: "assets/img/chashtitans.jpg",
+        altText: "Crash of the Titans",
+        title: "Crash of the Titans.chd",
+        downloadLink2: "https://nephobox.com/s/1M9Zq3s9geRP4LiWjGvtjAg" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Crash Tag Team Racing",
+        imgSrc: "assets/img/chashracing.jpg",
+        altText: "Crash Tag Team Racing",
+        title: "Crash Tag Team Racing.chd",
+        downloadLink2: "https://nephobox.com/s/1qA4Nb3DhBoIWc95_3APCIQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Devil May Cry 3 - Dante's Awakening",
+        imgSrc: "assets/img/devil3.jpg",
+        altText: "Devil May Cry 3 - Dante's Awakening",
+        title: "Devil May Cry 3 - Dante's Awakening (Special Edition).chd",
+        downloadLink2: "https://nephobox.com/s/1K0tnp030rNHZb9QFsYtm7A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Disney-Pixar Cars",
+        imgSrc: "assets/img/cars.jpg",
+        altText: "Disney-Pixar Cars",
+        title: "Disney-Pixar Cars (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1ZRALXss4E35C6P_9xNEEOg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Downhill Domination",
+        imgSrc: "assets/img/downhill.jpg",
+        altText: "Downhill Domination",
+        title: "Downhill Domination.chd",
+        downloadLink2: "https://nephobox.com/s/1oN8V8kj8nVDnGV9aA-DtcQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dragon Ball Z - Budokai",
+        imgSrc: "assets/img/budokai.jpg",
+        altText: "Dragon Ball Z - Budokai.chd",
+        title: "Dragon Ball Z - Budokai.chd",
+        downloadLink2: "https://nephobox.com/s/1_Izr6wdT5IkA_OGqy-hxOA" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Dragon Ball Z - Budokai 2",
+        imgSrc: "assets/img/budokai2.jpg",
+        altText: "Dragon Ball Z - Budokai 2",
+        title: "Dragon Ball Z - Budokai 2.chd",
+        downloadLink2: "https://nephobox.com/s/1NoDUp8Hdyoj87Vp68yAuBg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dragon Ball Z - Budokai 3",
+        imgSrc: "assets/img/budokai3.jpg",
+        altText: "Dragon Ball Z - Budokai 3",
+        title: "Dragon Ball Z - Budokai 3.chd",
+        downloadLink2: "https://nephobox.com/s/1dJYGo82QKYbbfNK2YqnfFg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dragon Ball Z - Budokai Tenkaichi",
+        imgSrc: "assets/img/tenkaichi.jpg",
+        altText: "Dragon Ball Z - Budokai Tenkaichi",
+        title: "Dragon Ball Z - Budokai Tenkaichi (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1UftdkP4Ecd3zS2wuw2PG_Q" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Dragon Ball Z - Budokai Tenkaichi 2",
+        imgSrc: "assets/img/tenkaichi2.jpg",
+        altText: "Dragon Ball Z - Budokai Tenkaichi 2",
+        title: "Dragon Ball Z - Budokai Tenkaichi 2.chd",
+        downloadLink2: "https://nephobox.com/s/1LeMIfkf_NR0_2CuChEsTmg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dragon Ball Z - Budokai Tenkaichi 3 Canon V7",
+        imgSrc: "assets/img/tenkaichi3canonv7.jpg",
+        altText: "Dragon Ball Z - Budokai Tenkaichi 3 Canon V7",
+        title: "Dragon Ball Z - Budokai Tenkaichi 3 Canon V7.chd",
+        downloadLink2: "https://nephobox.com/s/1LVLT9GwQ1NOPM7_9XG5GlQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dragon Ball Z - Infinite World",
+        imgSrc: "assets/img/dbinfinite.jpg",
+        altText: "Dragon Ball Z - Infinite World",
+        title: "Dragon Ball Z - Infinite World.chd",
+        downloadLink2: "https://nephobox.com/s/1GzzPJ0lJfFMsGJLro9qVsg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Driv3r",
+        imgSrc: "assets/img/driv3r.jpg",
+        altText: "Driv3r",
+        title: "Driv3r.chd",
+        downloadLink2: "https://nephobox.com/s/1kGGN-LGIZrLBL5DFnv6gXA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "eFootball 2025",
+        imgSrc: "assets/img/football25.jpg",
+        altText: "eFootball 2025",
+        title: "eFootball 2025 (MOD).chd",
+        downloadLink2: "https://nephobox.com/s/1ILM1CrYbILLTb6oj_ix2yg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "FIFA 14",
+        imgSrc: "assets/img/fifa14.jpg",
+        altText: "FIFA 14",
+        title: "FIFA 14 (Europe) (EnEsPtPl).chd",
+        downloadLink2: "https://nephobox.com/s/14ggqoK6U5P3bVvhnZcgCAg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Final Fantasy X",
+        imgSrc: "assets/img/ffx.jpg",
+        altText: "Final Fantasy X",
+        title: "Final Fantasy X .chd",
+        downloadLink2: "https://nephobox.com/s/1idjbu9JVX8LOfqI58gXl7w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Final Fantasy X-2",
+        imgSrc: "assets/img/ffx2.jpg",
+        altText: "Final Fantasy X",
+        title: "Final Fantasy X-2.chd",
+        downloadLink2: "https://nephobox.com/s/1l67fImTJ8GEcz907oFf2ig" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Final Fantasy XII",
+        imgSrc: "assets/img/ffxii.jpg",
+        altText: "Final Fantasy XII",
+        title: "Final Fantasy XII (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1g3fC1S6rQWzJViMehl4-_g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Fatal Frame III - The Tormented",
+        imgSrc: "assets/img/fatal3.jpg",
+        altText: "Fatal Frame III - The Tormented",
+        title: "Fatal Frame III - The Tormented (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1zyt4CTBRxBfG1myhWaOS1w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Ghost Rider",
+        imgSrc: "assets/img/ghostrider.jpg",
+        altText: "Ghost Rider",
+        title: "Ghost Rider.chd",
+        downloadLink2: "https://nephobox.com/s/1YA8ScdP7-3p1E6JOw3s0eQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "God of War II",
+        imgSrc: "assets/img/gow2.jpg",
+        altText: "God of War II",
+        title: "God of War II .chd",
+        downloadLink2: "https://nephobox.com/s/1WyJeI1O7CVthJhyfiVjP4Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "God of War",
+        imgSrc: "assets/img/gow.jpg",
+        altText: "God of War",
+        title: "God of War.chd",
+        downloadLink2: "https://nephobox.com/s/1mbBFTi3slfhUdvpxkGR_6w" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Grand Theft Auto - Liberty City Stories",
+        imgSrc: "assets/img/gtastories.jpg",
+        altText: "Grand Theft Auto - Liberty City Stories",
+        title: "Grand Theft Auto - Liberty City Stories .chd",
+        downloadLink2: "https://nephobox.com/s/1U33QImkIY0dViQC-vMrsXg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Grand Theft Auto V",
+        imgSrc: "assets/img/gtav.jpg",
+        altText: "Grand Theft Auto V",
+        title: "Grand Theft Auto V (MOD).chd",
+        downloadLink2: "https://nephobox.com/s/183Glfn3IIGyicWZX2gBi5Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Grand Theft Auto III",
+        imgSrc: "assets/img/gta3.jpg",
+        altText: "Grand Theft Auto III",
+        title: "Grand Theft Auto III (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1LJLF99cf_LqhX_Q44x-dpg" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Grand Theft Auto San Andreas",
+        imgSrc: "assets/img/gtasa.jpg",
+        altText: "Grand Theft Auto San Andreas",
+        title: "Grand Theft Auto San Andreas.chd",
+        downloadLink2: "https://nephobox.com/s/1zSyif_gRdkqzrGxTSdfv_w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Grand Theft Auto Vice City",
+        imgSrc: "assets/img/gtavc.jpg",
+        altText: "Grand Theft Auto Vice City",
+        title: "Grand Theft Auto Vice City.chd",
+        downloadLink2: "https://nephobox.com/s/1UObxjmPyG1VZCwol13xj4A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Gran Turismo 3",
+        imgSrc: "assets/img/gran3.jpg",
+        altText: "Gran Turismo 3",
+        title: "Gran Turismo 3.chd",
+        downloadLink2: "https://nephobox.com/s/1Dm1kwiBFWO6TZmGUrrAj_g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Gran Turismo 4",
+        imgSrc: "assets/img/gran4.jpg",
+        altText: "Gran Turismo 4",
+        title: "Gran Turismo 4.chd",
+        downloadLink2: "https://nephobox.com/s/1H-WnhKK0Ztp1p8UMMhgHKA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Hitman - Blood Money",
+        imgSrc: "assets/img/hitmanblood.jpg",
+        altText: "Hitman - Blood Money",
+        title: "Hitman - Blood Money.chd",
+        downloadLink2: "https://nephobox.com/s/1SsyDKTdphiU-K_hFRFjfvQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Hitman - Contracts",
+        imgSrc: "assets/img/hitmancontracts.jpg",
+        altText: "Hitman - Contracts",
+        title: "Hitman - Contracts.chd",
+        downloadLink2: "https://nephobox.com/s/1k3Tevl2G4PNcP4oaIUKJPA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Hitman 2 Silent Assasin",
+        imgSrc: "assets/img/hitman2.jpg",
+        altText: "Hitman 2 Silent Assasin",
+        title: "Hitman 2 Silent Assasin.chd",
+        downloadLink2: "https://nephobox.com/s/1PX6rduCymnx3_8ai6k9aLw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Jak and Daxter - The Precursor Legacy",
+        imgSrc: "assets/img/jax.jpg",
+        altText: "Jak and Daxter - The Precursor Legacy",
+        title: "Jak and Daxter - The Precursor Legacy (USA) (EnFrDeEsIt).chd",
+        downloadLink2: "https://nephobox.com/s/15JU_CL30AUagvSStFspXSg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Jak and Daxter Complete Trilogy",
+        imgSrc: "assets/img/jaxtrilogy.jpg",
+        altText: "Jak and Daxter Complete Trilogy",
+        title: "Jak and Daxter Complete Trilogy.chd",
+        downloadLink2: "https://nephobox.com/s/1wsUTnPBk05Ei63BlSdhOEw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Los Increibles",
+        imgSrc: "assets/img/increibles.jpg",
+        altText: "Los Increibles",
+        title: "Los Increibles.chd",
+        downloadLink2: "https://nephobox.com/s/1_3szyb8n4slawXW58B6BLQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Manhunt",
+        imgSrc: "assets/img/manhunt.jpg",
+        altText: "Manhunt",
+        title: "Manhunt.chd",
+        downloadLink2: "https://nephobox.com/s/1U-RDf5fOh5uP09jKWKHhIA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Manhunt 2",
+        imgSrc: "assets/img/manhunt2.jpg",
+        altText: "Manhunt 2",
+        title: "Manhunt 2.chd",
+        downloadLink2: "https://nephobox.com/s/1HqByNXnnvc05rjubQ8OMnQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Marvel - Ultimate Alliance 2",
+        imgSrc: "assets/img/spidermanalliance2.jpg",
+        altText: "Marvel - Ultimate Alliance 2",
+        title: "Marvel - Ultimate Alliance 2.chd",
+        downloadLink2: "https://nephobox.com/s/1zOP50VxruRX_m1xwNvHZvQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Marvel - Ultimate Alliance",
+        imgSrc: "assets/img/spidermanalliance.jpg",
+        altText: "Marvel - Ultimate Alliance",
+        title: "Marvel - Ultimate Alliance.chd",
+        downloadLink2: "https://nephobox.com/s/17025amVz2GK73mrE-ep2rQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Max Payne",
+        imgSrc: "assets/img/max.jpg",
+        altText: "Max Payne",
+        title: "Max Payne.chd",
+        downloadLink2: "https://nephobox.com/s/1qXf7mnnqA7M4h5OZ3TuTxQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Max Payne 2 - The Fall of Max Payne",
+        imgSrc: "assets/img/max2.jpg",
+        altText: "Max Payne 2 - The Fall of Max Payne",
+        title: "Max Payne 2 - The Fall of Max Payne (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1sz1kKtwtEm1JOkrs9bgx-w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Medal of Honor - European Assault",
+        imgSrc: "assets/img/medaleuro.jpg",
+        altText: "Medal of Honor - European Assault",
+        title: "Medal of Honor - European Assault.chd",
+        downloadLink2: "https://nephobox.com/s/1p_1uwMT6meEN1M1x7Iv2WA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mega Man X8",
+        imgSrc: "assets/img/megamanx8.jpg",
+        altText: "Mega Man X8",
+        title: "Mega Man X8 (U)(Undub).chd",
+        downloadLink2: "https://nephobox.com/s/1JaMd2dS-podkUflDXpWjXQ" // Segundo enlace de descarga
         
     },       
     {
