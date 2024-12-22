@@ -29,6 +29,142 @@ const juegos = [
         altText: "Bayonetta Origins: Cereza and the Lost Demon",
         title: "Bayonetta Origins: Cereza and the Lost Demon.XCI",
         downloadLink2: "https://cuty.io/JwP2z53xS5ni" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Metal Gear Solid 2 - Sons of Liberty",
+        imgSrc: "assets/img/mg2.jpg",
+        altText: "Metal Gear Solid 2 - Sons of Liberty",
+        title: "Metal Gear Solid 2 - Sons of Liberty (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1ziF93iyOT1ouiPYQnfKIng" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Metal Gear Solid 3 SE",
+        imgSrc: "assets/img/mg3.jpg",
+        altText: "Metal Gear Solid 3 SE",
+        title: "Metal Gear Solid 3 Snake Eater.chd",
+        downloadLink2: "https://nephobox.com/s/1wTPNSJU1NqaXUM8rmgFGlQ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Metal Slug 3",
+        imgSrc: "assets/img/metalslug3.jpg",
+        altText: "Metal Slug 3",
+        title: "Metal Slug 3 (Europe).chd",
+        downloadLink2: "https://nephobox.com/s/1LrZQo3z0Sajr_yQKp3QH8A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Midnight Club 3 - DUB Edition",
+        imgSrc: "assets/img/mc3.jpg",
+        altText: "Midnight Club 3 - DUB Edition",
+        title: "Midnight Club 3 - DUB Edition.chd",
+        downloadLink2: "https://nephobox.com/s/16QJQnHPeVySEwj9_ET-VBA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mortal Kombat Armageddon",
+        imgSrc: "assets/img/mk.jpg",
+        altText: "Mortal Kombat Armageddon",
+        title: "Mortal Kombat Armageddon.chd",
+        downloadLink2: "https://nephobox.com/s/1IiEOcnDgJaq6jw-ID6gONg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Naruto Shippuden - Ultimate Ninja 5",
+        imgSrc: "assets/img/naruto5.jpg",
+        altText: "Naruto Shippuden - Ultimate Ninja 5",
+        title: "Naruto Shippuden - Ultimate Ninja 5 (Europe).chd",
+        downloadLink2: "https://nephobox.com/s/1zH-dlkH-jgz6O534cqSfeg" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Need for Speed - Hot Pursuit 2",
+        imgSrc: "assets/img/nfshot2.jpg",
+        altText: "Need for Speed - Hot Pursuit 2",
+        title: "Need for Speed - Hot Pursuit 2 (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1KZ_IzsbyVtCmWefNxWczzQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Need for Speed Most Wanted",
+        imgSrc: "assets/img/nfsmost.jpg",
+        altText: "Need for Speed Most Wanted",
+        title: "Need for Speed Most Wanted.chd",
+        downloadLink2: "https://nephobox.com/s/1JTdOyUShlmRUqskZxrQk5g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Need for Speed - ProStreet",
+        imgSrc: "assets/img/nfspro.jpg",
+        altText: "Need for Speed - ProStreet",
+        title: "Need for Speed - ProStreet (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1Xo6m7wa-HuxwBiviUhSF0Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Need for Speed - Underground 2",
+        imgSrc: "assets/img/nfsunder2.jpg",
+        altText: "Need for Speed - Underground",
+        title: "Need for Speed - Underground 2 (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1-tC_BlK8qcvtmAtjKC7bYg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pro Evolution Soccer 3",
+        imgSrc: "assets/img/pes3.jpg",
+        altText: "Pro Evolution Soccer 3",
+        title: "Pro Evolution Soccer 3 (Europe) (En,Fr,De,Es).chd",
+        downloadLink2: "https://nephobox.com/s/1V6YFd3czz7JnbNuIei4z8A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pro Evolution Soccer 6",
+        imgSrc: "assets/img/pes6.jpg",
+        altText: "Pro Evolution Soccer 6",
+        title: "Pro Evolution Soccer 6 (Spain).chd",
+        downloadLink2: "https://nephobox.com/s/1d8z9tuMneLdOiNtEfHbCfw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Ratchet & Clank",
+        imgSrc: "assets/img/ratchet.jpg",
+        altText: "Ratchet & Clank",
+        title: "Ratchet & Clank.chd",
+        downloadLink2: "https://nephobox.com/s/1_R1cPPPlOx3MnAlPAv3UpA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Ratchet & Clank 2",
+        imgSrc: "assets/img/ratchet2.jpg",
+        altText: "Ratchet & Clank 2",
+        title: "Ratchet & Clank 2.chd",
+        downloadLink2: "https://nephobox.com/s/1Qk7DrvIz1nwUlbUi3ur7Gw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Ratchet & Clank 3 Up YA",
+        imgSrc: "assets/img/ratchet3.jpg",
+        altText: "Ratchet & Clank 3 Up YA",
+        title: "Ratchet & Clank 3 Up YA.chd",
+        downloadLink2: "https://nephobox.com/s/1ckPwNxc_mT13TiR1F_VMoA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Resident Evil 4",
+        imgSrc: "assets/img/re4.jpg",
+        altText: "Resident Evil 4",
+        title: "Resident Evil 4 (Europe).chd",
+        downloadLink2: "https://nephobox.com/s/12edXojbHcOzXmEUVVK9eFA" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Shadow of the Colossus",
+        imgSrc: "assets/img/shadowcolussus.jpg",
+        altText: "Shadow of the Colossus",
+        title: "Shadow of the Colossus.chd",
+        downloadLink2: "https://nephobox.com/s/1yLwNQhDgv-hhhsZlafS8KQ" // Segundo enlace de descarga
 
     },       
     {
@@ -49,7 +185,7 @@ const juegos = [
     },       
     {
         id: "Sly 2 - Band of Thieves",
-        imgSrc: "assets/img/sm64.jpg",
+        imgSrc: "assets/img/sly2.jpg",
         altText: "Sly 2 - Band of Thieves",
         title: "Sly 2 - Band of Thieves (USA).chd",
         downloadLink2: "https://nephobox.com/s/1GpEMh_Kq616WITOjeTS_kg" // Segundo enlace de descarga
@@ -57,7 +193,7 @@ const juegos = [
     },       
     {
         id: "Sly 3 - Honor Among Thieves",
-        imgSrc: "assets/img/sm64.jpg",
+        imgSrc: "assets/img/sly3.jpg",
         altText: "Sly 3 - Honor Among Thieves",
         title: "Sly 3 - Honor Among Thieves (USA).chd",
         downloadLink2: "https://nephobox.com/s/121OYNowr56SOj7M9mB-JhA" // Segundo enlace de descarga
