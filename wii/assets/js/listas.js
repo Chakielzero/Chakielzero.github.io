@@ -41,7 +41,7 @@ const juegos = [
     },       
     {
         id: "Donkey Kong Country Returns",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
+        imgSrc: "assets/img/donkey.jpg",
         altText: "Donkey Kong Country Returns",
         title: "Donkey Kong Country Returns (USA) (En,Fr,Es).rvz",
         downloadLink2: "hHH" // Segundo enlace de descarga
@@ -129,7 +129,7 @@ const juegos = [
     },       
     {
         id: "Need for Speed - Carbon",
-        imgSrc: "assets/img/bayonetta3.jpg",
+        imgSrc: "assets/img/nfscarbon.jpg",
         altText: "Need for Speed - Carbon",
         title: "Need for Speed - Carbon (USA).rvz",
         downloadLink2: "https://nephobox.com/s/1lcIcSQDWJRNiJHN7c6Y_Qg" // Segundo enlace de descarga
