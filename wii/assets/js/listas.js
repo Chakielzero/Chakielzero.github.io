@@ -1,27 +1,11 @@
 // Lista de juegos
 const juegos = [
     {
-        id: "Animal Crossing New Horizons",
-        imgSrc: "assets/img/animalcrosing.jpg",
-        altText: "Animal Crossing New Horizons",
-        title: "Animal Crossing New Horizons+ UPDATE+ 3DLC.XCI",
-        downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
-    },       
-    {
-        id: "Another Code Recollection",
-        imgSrc: "assets/img/another.jpg",
-        altText: "Another Code Recollection",
-        title: "Another Code Recollection.XCI",
-        downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
-
-    },       
-    {
         id: "Ben 10 Omniverse",
         imgSrc: "assets/img/ben10.jpg",
-        altText: "Ben 10 Omniverse",
+        altText: "Ben 10 - Omniverse",
         title: "Ben 10 - Omniverse (USA) (En,Fr,Es).rvz",
         downloadLink2: "https://nephobox.com/s/1qpl85C-RKBape8WOj1HFLw" // Segundo enlace de descarga
-        
     },       
     {
         id: "Bully Scholarship Edition",
@@ -237,14 +221,6 @@ const juegos = [
         altText: "Super Smash Bros. Brawl",
         title: "Super Smash Bros. Brawl (USA) (Rev 2).rvz",
         downloadLink2: "https://nephobox.com/s/1E1nQI_2WjBC9e112ff5r4Q" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Dark Souls Remastered",
-        imgSrc: "assets/img/darksoulsremastered.jpg",
-        altText: "Dark Souls Remastered",
-        title: "Dark Souls Remastered.NSP",
-        downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
     }
 ];
 
