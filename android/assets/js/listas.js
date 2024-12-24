@@ -54,6 +54,14 @@ const juegos = [
         altText: "DUCK TALES REMASTERED",
         title: "DUCK TALES REMASTERED.apk",
         downloadLink2: "https://nephobox.com/s/1-yHo4gVNS3zRnA0Hpy6Ebw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Half Life 2",
+        imgSrc: "assets/img/hl2.jpg",
+        altText: "Half Life 2",
+        title: "Half Life 2",
+        downloadLink2: "https://nephobox.com/s/1HgpII-mH0VnUrysJNDiwPw" // Segundo enlace de descarga
         
     },       
     {
