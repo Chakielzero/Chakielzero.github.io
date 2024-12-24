@@ -1,27 +1,11 @@
 // Lista de juegos
 const juegos = [
     {
-        id: "Animal Crossing New Horizons",
-        imgSrc: "assets/img/animalcrosing.jpg",
-        altText: "Animal Crossing New Horizons",
-        title: "Animal Crossing New Horizons+ UPDATE+ 3DLC.XCI",
-        downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
-    },       
-    {
-        id: "Another Code Recollection",
-        imgSrc: "assets/img/another.jpg",
-        altText: "Another Code Recollection",
-        title: "Another Code Recollection.XCI",
-        downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
-        
-    },       
-    {
         id: "ATV - Quad Power Racing 2",
         imgSrc: "assets/img/atv2.jpg",
         altText: "ATV - Quad Power Racing 2",
         title: "ATV - Quad Power Racing 2 (USA).rvz",
         downloadLink2: "https://nephobox.com/s/1XGx8Y_cHh7LDpemnrZZe-w" // Segundo enlace de descarga
-        
     },       
     {
         id: "Bloody Roar - Primal Fury",
@@ -241,7 +225,7 @@ const juegos = [
     },       
     {
         id: "The Simpsons Hit and Run Versión Latino",
-        imgSrc: "assets/img/another.jpg",
+        imgSrc: "assets/img/simpsons.jpg",
         altText: "The Simpsons Hit and Run Versión Latino",
         title: "The Simpsons Hit and Run Versión Latino v0.1.6 [GC-NTSC] by Manuel.rvz",
         downloadLink2: "https://nephobox.com/s/1NSBfcDq7JPsznTmRerqI1g" // Segundo enlace de descarga
@@ -258,17 +242,9 @@ const juegos = [
     {
         id: "Wario World",
         imgSrc: "assets/img/wario.jpg",
-        altText: "Wario World",
-        title: "Wario World.rvz",
+        altText: "Tony Hawk's Pro Skater 4",
+        title: "Tony Hawk's Pro Skater 4 (USA).rvz",
         downloadLink2: "https://nephobox.com/s/12lJvuJudU_ILEFsrvXxYbQ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Dark Souls Remastered",
-        imgSrc: "assets/img/darksoulsremastered.jpg",
-        altText: "Dark Souls Remastered",
-        title: "Dark Souls Remastered.NSP",
-        downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
     }
 ];
 
