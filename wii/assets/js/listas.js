@@ -13,22 +13,6 @@ const juegos = [
         altText: "Another Code Recollection",
         title: "Another Code Recollection.XCI",
         downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
-        
-    },       
-    {
-        id: "Bayonetta 3",
-        imgSrc: "assets/img/bayonetta3.jpg",
-        altText: "Bayonetta 3",
-        title: "Bayonetta 3.XCI",
-        downloadLink2: "https://cuty.io/Ut2KmTbW" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Bayonetta Origins: Cereza and the Lost Demon",
-        imgSrc: "assets/img/bayonettaorigins.jpg",
-        altText: "Bayonetta Origins: Cereza and the Lost Demon",
-        title: "Bayonetta Origins: Cereza and the Lost Demon.XCI",
-        downloadLink2: "https://cuty.io/JwP2z53xS5ni" // Segundo enlace de descarga
 
     },       
     {
@@ -253,22 +237,6 @@ const juegos = [
         altText: "Super Smash Bros. Brawl",
         title: "Super Smash Bros. Brawl (USA) (Rev 2).rvz",
         downloadLink2: "https://nephobox.com/s/1E1nQI_2WjBC9e112ff5r4Q" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Cadence of Hyrule Crypt",
-        imgSrc: "assets/img/cadenceofhyrule.jpg",
-        altText: "Cadence of Hyrule Crypt",
-        title: "Cadence of Hyrule Crypt.XCI",
-        downloadLink2: "https://cuty.io/IsJl6odZ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "CUPHEAD",
-        imgSrc: "assets/img/cuphead.jpg",
-        altText: "CUPHEAD",
-        title: "CUPHEAD.XCI",
-        downloadLink2: "https://cuty.io/pLGzC4" // Segundo enlace de descarga
 
     },       
     {
