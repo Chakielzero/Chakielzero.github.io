@@ -16,6 +16,14 @@ const juegos = [
 
     },       
     {
+        id: "Call of Duty 3",
+        imgSrc: "assets/img/cod3.jpg",
+        altText: "Call of Duty 3",
+        title: "Call of Duty 3 (Europe) (Fr,Es,It).rvz",
+        downloadLink2: "https://nephobox.com/s/1xZ6Ckah1EIWOXwEMyq3BzA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Call of Duty - Black Ops",
         imgSrc: "assets/img/codblack.jpg",
         altText: "Call of Duty - Black Ops (USA).rvz",
