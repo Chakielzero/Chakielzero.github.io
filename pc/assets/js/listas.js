@@ -138,7 +138,7 @@ const juegos = [
     },       
     {
         id: "Resident Evil 3 Remake",
-        imgSrc: "assets/img/re3remake",
+        imgSrc: "assets/img/residentevil3remake",
         altText: "Resident Evil 3 Remake",
         title: "Resident Evil 3 Remake",
         downloadLink2: "https://nephobox.com/s/1GA49eLcDwypnwXG-KCEVOw" // Segundo enlace de descarga
