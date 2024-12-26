@@ -21,7 +21,7 @@ const juegos = [
         imgSrc: "assets/img/dead2.jpg",
         altText: "Dead Space 2",
         title: "Dead Space 2",
-        downloadLink2: "fff" // Segundo enlace de descarga
+        downloadLink2: "https://nephobox.com/s/1DLi9SqRL3_dp8qrCOfxYxQ" // Segundo enlace de descarga
 
     },       
     {
