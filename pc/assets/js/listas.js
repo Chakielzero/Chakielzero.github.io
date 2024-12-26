@@ -1,13 +1,6 @@
 // Lista de juegos
 const juegos = [
     {
-        id: "Animal Crossing New Horizons",
-        imgSrc: "assets/img/animalcrosing.jpg",
-        altText: "Animal Crossing New Horizons",
-        title: "Animal Crossing New Horizons+ UPDATE+ 3DLC.XCI",
-        downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
-    },       
-    {
         id: "Alan Wake",
         imgSrc: "assets/img/alan.jpg",
         altText: "Alan Wake",
@@ -181,7 +174,7 @@ const juegos = [
         altText: "Stray",
         title: "Stray",
         downloadLink2: "hhhxOA" // Segundo enlace de descarga
-        
+
     },       
     {
         id: "The Amazing Spider Man 2",
@@ -189,14 +182,6 @@ const juegos = [
         altText: "The Amazing Spider Man 2",
         title: "The Amazing Spider Man 2",
         downloadLink2: "https://nephobox.com/s/1O3KWhVAeTDP0O8r7fSSwdQ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Dark Souls Remastered",
-        imgSrc: "assets/img/darksoulsremastered.jpg",
-        altText: "Dark Souls Remastered",
-        title: "Dark Souls Remastered.NSP",
-        downloadLink2: "https://cuty.io/IC0p5A" // Segundo enlace de descarga
     }
 ];
 
