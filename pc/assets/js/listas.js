@@ -173,7 +173,7 @@ const juegos = [
         imgSrc: "assets/img/Stray.jpg",
         altText: "Stray",
         title: "Stray",
-        downloadLink2: "hhhxOA" // Segundo enlace de descarga
+        downloadLink2: "https://nephobox.com/s/1ybj9iOMw-x9PSzVBD3J2fQ" // Segundo enlace de descarga
 
     },       
     {
