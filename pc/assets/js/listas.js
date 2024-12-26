@@ -170,7 +170,7 @@ const juegos = [
     },       
     {
         id: "Stray",
-        imgSrc: "assets/img/stray.jpg",
+        imgSrc: "assets/img/Stray.jpg",
         altText: "Stray",
         title: "Stray",
         downloadLink2: "hhhxOA" // Segundo enlace de descarga
