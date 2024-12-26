@@ -117,7 +117,7 @@ const juegos = [
         imgSrc: "assets/img/nfsrivals.jpg",
         altText: "Need For Speed Rivals",
         title: "Need For Speed Rivals",
-        downloadLink2: "hP6RykNlwG7Ww" // Segundo enlace de descarga
+        downloadLink2: "https://nephobox.com/s/1_NaZ3UM5sB3xAKxNfP6WOg" // Segundo enlace de descarga
 
     },       
     {
@@ -138,7 +138,7 @@ const juegos = [
     },       
     {
         id: "Resident Evil 3 Remake",
-        imgSrc: "assets/img/residentevil3remake",
+        imgSrc: "assets/img/residentevil3remake.jpg",
         altText: "Resident Evil 3 Remake",
         title: "Resident Evil 3 Remake",
         downloadLink2: "https://nephobox.com/s/1GA49eLcDwypnwXG-KCEVOw" // Segundo enlace de descarga
