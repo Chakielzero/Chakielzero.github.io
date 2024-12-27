@@ -32,6 +32,38 @@ const juegos = [
 
     },       
     {
+        id: "Crash Bandicoot - The Wrath of Cortex",
+        imgSrc: "assets/img/crash.jpg",
+        altText: "Crash Bandicoot - The Wrath of Cortex",
+        title: "Crash Bandicoot - The Wrath of Cortex (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/12S07YBTSW2o1MDJ0-xbD9g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Donkey Konga",
+        imgSrc: "assets/img/konga.jpg",
+        altText: "Donkey Konga",
+        title: "Donkey Konga (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1rDldcXfy4CxJcOsgv3w21Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Donkey Konga 2",
+        imgSrc: "assets/img/konga2.jpg",
+        altText: "Donkey Konga 2",
+        title: "Donkey Konga 2 (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1_l3bDMwXJA2-wYfvQ0gItg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Donkey Kong Jungle Beat",
+        imgSrc: "assets/img/donkey.jpg",
+        altText: "Donkey Kong Jungle Beat",
+        title: "Donkey Kong Jungle Beat (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1fnedoS8JjDdP6VGz-fRZBw" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Fire Emblem - Path of Radiance",
         imgSrc: "assets/img/fire.jpg",
         altText: "Fire Emblem - Path of Radiance",
@@ -59,7 +91,7 @@ const juegos = [
         id: "Incredible Hulk, The - Ultimate Destruction",
         imgSrc: "assets/img/hulk.jpg",
         altText: "Incredible Hulk, The - Ultimate Destruction",
-        title: "Incredible Hulk, The - Ultimate Destruction",
+        title: "Incredible Hulk, The - Ultimate Destruction.rvz",
         downloadLink2: "https://nephobox.com/s/1bpXr_2ljJiG84ADciXK7og" // Segundo enlace de descarga
 
     },       
@@ -69,6 +101,14 @@ const juegos = [
         altText: "Legend of Zelda, The - Twilight Princess",
         title: "Legend of Zelda, The - Twilight Princess.rvz",
         downloadLink2: "https://nephobox.com/s/1WUraxuto0_h71zX0MGmyaw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Legend of Zelda, The - Wind Waker",
+        imgSrc: "assets/img/zeldaww.jpg",
+        altText: "Legend of Zelda, The - Wind Waker",
+        title: "Legend of Zelda, The - Wind Waker.rvz",
+        downloadLink2: "https://nephobox.com/s/1j7VRAfNztidSJVuNJLZRaQ" // Segundo enlace de descarga
         
     },       
     {
@@ -80,6 +120,30 @@ const juegos = [
 
     },       
     {
+        id: "Mario Golf - Toadstool Tour",
+        imgSrc: "assets/img/mariogolf.jpg",
+        altText: "Mario Golf - Toadstool Tour",
+        title: "Mario Golf - Toadstool Tour.rvz",
+        downloadLink2: "https://nephobox.com/s/1PGSIAdA-jEpDxFJXPFpbrQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario Kart - Double Dash!!",
+        imgSrc: "assets/img/mariokart.jpg",
+        altText: "Mario Kart - Double Dash!!",
+        title: "Mario Kart - Double Dash!! (USA) (Bonus Disc).rvz",
+        downloadLink2: "https://nephobox.com/s/1JdQn7hTqEXfl36CbASsxrA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario Party 4",
+        imgSrc: "assets/img/mario4.jpg",
+        altText: "Mario Party 4",
+        title: "Mario Party 4.rvz",
+        downloadLink2: "https://nephobox.com/s/1ovS2c9QuT_-npc5Xy6iCrA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Mario Party 7",
         imgSrc: "assets/img/mario7.jpg",
         altText: "Mario Party 7",
@@ -88,11 +152,27 @@ const juegos = [
 
     },       
     {
+        id: "Mario Power Tennis",
+        imgSrc: "assets/img/mariotennis.jpg",
+        altText: "Mario Power Tennis",
+        title: "Mario Power Tennis.rvz",
+        downloadLink2: "https://nephobox.com/s/15TFvHZmmRJ2SzbArWM9hjg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Mario Smash Football",
         imgSrc: "assets/img/mariofootball.jpg",
         altText: "Mario Smash Football",
         title: "Mario Smash Football.rvz",
         downloadLink2: "https://nephobox.com/s/1tax5OKtz-EC64IvGHKOt8w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mario Superstar Baseball",
+        imgSrc: "assets/img/mariobaseball.jpg",
+        altText: "Mario Superstar Baseball",
+        title: "Mario Superstar Baseball.rvz",
+        downloadLink2: "https://nephobox.com/s/1tyw67NYfhDdHKrJfY749XQ" // Segundo enlace de descarga
         
     },       
     {
@@ -128,6 +208,14 @@ const juegos = [
 
     },       
     {
+        id: "Need for Speed - Carbon",
+        imgSrc: "assets/img/nfscar.jpg",
+        altText: "Need for Speed - Carbon",
+        title: "Need for Speed - Carbon (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1PE_CFzoBDjrFyQQhTgQbOQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Need for Speed - Hot Pursuit 2",
         imgSrc: "assets/img/nfshot2.jpg",
         altText: "Need for Speed - Hot Pursuit 2",
@@ -160,6 +248,22 @@ const juegos = [
 
     },       
     {
+        id: "Resident Evil 3 - Nemesis",
+        imgSrc: "assets/img/re3.jpg",
+        altText: "Resident Evil 3 - Nemesis",
+        title: "Resident Evil 3 - Nemesis (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1X8f9yc0xait4ud9h5KwXqw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Resident Evil - Code - Veronica X",
+        imgSrc: "assets/img/residentcode.jpg",
+        altText: "Resident Evil",
+        title: "Resident Evil - Code - Veronica X (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1q_Qf9cupVH5wZ2HohzyLwA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Resident Evil Zero",
         imgSrc: "assets/img/re0.jpg",
         altText: "Resident Evil Zero",
@@ -184,6 +288,14 @@ const juegos = [
 
     },       
     {
+        id: "Sonic Adventure DX - Director´s Cut",
+        imgSrc: "assets/img/sonicdx.jpg",
+        altText: "Sonic Adventure DX - Director´s Cut",
+        title: "Sonic Adventure DX - Director´s Cut.rvz",
+        downloadLink2: "https://nephobox.com/s/1V0nM9T7wDwNns2piYZ-khw" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Sonic Adventure 2 - Battle",
         imgSrc: "assets/img/sonic2.jpg",
         altText: "Sonic Adventure 2 - Battle",
@@ -197,6 +309,14 @@ const juegos = [
         altText: "Sonic Heroes",
         title: "Sonic Heroes.rvz",
         downloadLink2: "https://nephobox.com/s/1PlWjSJ4lRIXpJAEdCDirxA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Sonic Riders",
+        imgSrc: "assets/img/sonicr.jpg",
+        altText: "Sonic Riders",
+        title: "Sonic Riders (Europe).rvz",
+        downloadLink2: "https://nephobox.com/s/1DL7a1_whjXfmhwqWGYsSTg" // Segundo enlace de descarga
 
     },       
     {
