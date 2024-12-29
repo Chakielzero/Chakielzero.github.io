@@ -8,6 +8,14 @@ const juegos = [
         downloadLink2: "https://cuty.io/uFw3" // Segundo enlace de descarga
     },       
     {
+        id: "Another Code Recollection",
+        imgSrc: "assets/img/another.jpg",
+        altText: "Another Code Recollection",
+        title: "Another Code Recollection.XCI",
+        downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
+
+    },       
+    {        
         id: "3rdbirtday",
         imgSrc: "assets/img/3rd.jpg",
         altText: "3rdbirtday",
