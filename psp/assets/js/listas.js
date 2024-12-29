@@ -64,10 +64,10 @@ const juegos = [
 
     },       
     {
-        id: "DBZTTT BT3 BY GOKU TTT MODS",
+        id: "Dbzttt bt3 by Goku ttt Mods",
         imgSrc: "assets/img/bt3.jpg",
-        altText: "DBZTTT BT3 BY GOKU TTT MODS",
-        title: "DBZTTT BT3 BY GOKU TTT MODS.iso",
+        altText: "Dbzttt bt3 by Goku ttt Mods",
+        title: "Dbzttt bt3 by Goku ttt Mods.iso",
         downloadLink2: "https://nephobox.com/s/1eX2msHPEZ6eh6jVXrb9Fow" // Segundo enlace de descarga
 
     },       
