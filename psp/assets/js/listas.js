@@ -14,7 +14,7 @@ const juegos = [
         title: "Another Code Recollection.XCI",
         downloadLink2: "https://cuty.io/p0DPkLamO" // Segundo enlace de descarga
         
-        },       
+    },       
     {
         id: "3rdbirtday",
         imgSrc: "assets/img/3rd.jpg",
