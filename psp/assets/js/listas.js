@@ -32,6 +32,46 @@ const juegos = [
 
     },       
     {
+        id: "Ben 10 - Protector of Earth",
+        imgSrc: "assets/img/ben10.jpg",
+        altText: "Ben 10 - Protector of Earth",
+        title: "Ben 10 - Protector of Earth.iso",
+        downloadLink2: "https://nephobox.com/s/1nLVW9iBaX8nfLYX5HCMLjg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Burnout Legends",
+        imgSrc: "assets/img/burnout.jpg",
+        altText: "Burnout Legends",
+        title: "Burnout Legends.iso",
+        downloadLink2: "https://nephobox.com/s/1baGLDXJ0lLOl5vFPZ3Re4w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Cars",
+        imgSrc: "assets/img/ben10.jpg",
+        altText: "Ben 10 Protector Of Earth"",
+        title: "Cars (Spain).iso",
+        downloadLink2: "https://nephobox.com/s/1aBD6Ts6lJgsQ6RgoYtGgwg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash of the Titans",
+        imgSrc: "assets/img/crash.jpg",
+        altText: "Crash of the Titans",
+        title: "Crash of the Titans (USA).chd",
+        downloadLink2: "https://nephobox.com/s/1lUWFpFXoCJSKVgiK8Emq8A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "DBZTTT BT3 BY GOKU TTT MODS",
+        imgSrc: "assets/img/bt3.jpg",
+        altText: "DBZTTT BT3 BY GOKU TTT MODS",
+        title: "DBZTTT BT3 BY GOKU TTT MODS.iso",
+        downloadLink2: "https://nephobox.com/s/1eX2msHPEZ6eh6jVXrb9Fow" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Bayonetta Origins: Cereza and the Lost Demon",
         imgSrc: "assets/img/bayonettaorigins.jpg",
         altText: "Bayonetta Origins: Cereza and the Lost Demon",
