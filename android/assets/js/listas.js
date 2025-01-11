@@ -164,7 +164,7 @@ const juegos = [
         id: "Sonic 2 Absolute",
         imgSrc: "assets/img/SONIC1.jpg",
         altText: "Sonic 2 Absolute",
-        title: "Sonic 2 Absolute",
+        title: "Sonic 2 Absolute.apk",
         downloadLink2: "https://nephobox.com/s/1M3oIqqfq3uPQXywdocdYGw" // Segundo enlace de descarga
         
 
@@ -173,7 +173,7 @@ const juegos = [
         id: "Sonic Maps",
         imgSrc: "assets/img/SONIC2.jpg",
         altText: "Sonic Maps",
-        title: "Sonic Maps",
+        title: "Sonic Maps.apk",
         downloadLink2: "https://nephobox.com/s/1BEYNbOAUsTUwkD9C10fLgQ" // Segundo enlace de descarga
 
     },       
@@ -181,7 +181,7 @@ const juegos = [
         id: "Sonic P-06",
         imgSrc: "assets/img/SONIC3.jpg",
         altText: "Sonic P-06",
-        title: "Sonic P-06",
+        title: "Sonic P-06.apk",
         downloadLink2: "https://nephobox.com/s/15NGbUygkq-5lIl1-lG_xEA" // Segundo enlace de descarga
         
     },       
@@ -189,7 +189,7 @@ const juegos = [
         id: "Sonic 3 A.I.R",
         imgSrc: "assets/img/SONIC4.jpg",
         altText: "Sonic 3 A.I.R",
-        title: "Sonic 3 A.I.R",
+        title: "Sonic 3 A.I.R.apk",
         downloadLink2: "https://nephobox.com/s/1jRjSPB4hLOmNhN2lx1nlFQ" // Segundo enlace de descarga
 
     },       
@@ -197,7 +197,7 @@ const juegos = [
         id: "Sonic GT",
         imgSrc: "assets/img/SONIC5.jpg",
         altText: "Sonic GT",
-        title: "Sonic GT",
+        title: "Sonic GT.apk",
         downloadLink2: "https://nephobox.com/s/1IMgtJLvkkScau9VWc71FaA" // Segundo enlace de descarga
 
     },       
@@ -205,7 +205,7 @@ const juegos = [
         id: "Sonic Momentum",
         imgSrc: "assets/img/SONIC6.jpg",
         altText: "Sonic Momentum",
-        title: "Sonic Momentum",
+        title: "Sonic Momentum.apk",
         downloadLink2: "https://nephobox.com/s/1-UJx84DfQKYN-t-XD_umEg" // Segundo enlace de descarga
         
     },       
@@ -213,7 +213,7 @@ const juegos = [
         id: "Sonic Moon",
         imgSrc: "assets/img/SONIC7.jpg",
         altText: "Sonic Moon",
-        title: "Sonic Moon",
+        title: "Sonic Moon.apk",
         downloadLink2: "https://nephobox.com/s/1redua24OtZ06emahgiTnpA" // Segundo enlace de descarga
 
     },       
@@ -221,7 +221,7 @@ const juegos = [
         id: "Sonic SMS Remake 2",
         imgSrc: "assets/img/SONIC8.jpg",
         altText: "Sonic SMS Remake 2",
-        title: "Sonic SMS Remake 2",
+        title: "Sonic SMS Remake 2.apk",
         downloadLink2: "https://nephobox.com/s/1p9FgH9CW7MWUdfYnMjnRKg" // Segundo enlace de descarga
 
     },       
@@ -229,7 +229,7 @@ const juegos = [
         id: "Sonic Triple Trouble 16 bit",
         imgSrc: "assets/img/SONIC9.jpg",
         altText: "Sonic Triple Trouble 16 bit",
-        title: "Sonic Triple Trouble 16 bit",
+        title: "Sonic Triple Trouble 16 bit.apk",
         downloadLink2: "https://nephobox.com/s/1La6s0Nj5FLUI5OgEYo33QA" // Segundo enlace de descarga
         
     },       
@@ -237,7 +237,7 @@ const juegos = [
         id: "SONIC UNLEASHED",
         imgSrc: "assets/img/SONIC10.jpg",
         altText: "SONIC UNLEASHED",
-        title: "SONIC UNLEASHED",
+        title: "SONIC UNLEASHED.apk",
         downloadLink2: "https://nephobox.com/s/1LuLOKdvJHTwuRTjIOZ6OGQ" // Segundo enlace de descarga
 
     },       
