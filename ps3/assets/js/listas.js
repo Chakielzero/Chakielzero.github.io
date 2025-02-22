@@ -29,7 +29,7 @@ const juegos = [
         imgSrc: "assets/img/blur.jpg",
         altText: "Blur (Europe) (En,Fr,De,Es,It)",
         title: "Blur (Europe) (En,Fr,De,Es,It).iso",
-        downloadLink2: "hNysW4HQ" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1VF3KXA5gi9sv39vjFPDgxw" // Segundo enlace de descarga
 
     },       
     {
@@ -117,7 +117,7 @@ const juegos = [
         imgSrc: "assets/img/duckstales.jpg",
         altText: "DuckTales Remastered",
         title: "DuckTales Remastered.pkg",
-        downloadLink2: "8jNMV3B-xM8-LISg" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1nmiImzUSpME_zt9TXZT_uA" // Segundo enlace de descarga
 
     },       
     {
@@ -197,7 +197,7 @@ const juegos = [
         imgSrc: "assets/img/narutostorm.jpg",
         altText: "Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)",
         title: "Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo).pkg",
-        downloadLink2: "S3zRnA0Hpy6Ebw" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/12JGDXJ7dCAEJEMVraBIe_w" // Segundo enlace de descarga
         
     },       
     {
@@ -277,7 +277,7 @@ const juegos = [
         imgSrc: "assets/img/turtle.jpg",
         altText: "TMNT - Turtles in Time Re-Shelled",
         title: "TMNT - Turtles in Time Re-Shelled.iso",
-        downloadLink2: "hNysW4HQ" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1kyswTHO2d7J42gi0d4YHSw" // Segundo enlace de descarga
 
     },
     {
@@ -285,7 +285,7 @@ const juegos = [
         imgSrc: "assets/img/virtua5.jpg",
         altText: "Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It)",
         title: "Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It).iso",
-        downloadLink2: "hOfJNPBlQ" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1PbYUPDtba3vpy-9M20Qmuw" // Segundo enlace de descarga
 
     },       
     {
