@@ -1,388 +1,300 @@
 // Lista de juegos
 const juegos = [
     {
-        id: "AC ® III Liberation",
-        imgSrc: "assets/img/aciii.jpg",
-        altText: "AC ® III Liberation",
-        title: "AC ® III Liberation (PCSE00053) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1JXN8P9LPya7dapji79SuFg" // Segundo enlace de descarga
+        id: "Asura's Wrath",
+        imgSrc: "assets/img/asura.jpg",
+        altText: "Asura's Wrath (USA)",
+        title: "Asura's Wrath (USA) (En,Ja,Fr,De,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1N1tp__JzlqpNagyrKAS0iw" // Segundo enlace de descarga
 
     },       
     {
-        id: "Angry Birds™ Star Wars",
-        imgSrc: "assets/img/angrybirdstar.jpg",
-        altText: "Angry Birds™ Star Wars",
-        title: "Angry Birds™ Star Wars (PCSE00294) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/17XZqc-94rQfXwe5XAWkyhg" // Segundo enlace de descarga
+        id: "Batman - Arkham Asylum - Game of the Year Edition",
+        imgSrc: "assets/img/batmanarkam.jpg",
+        altText: "Batman - Arkham Asylum - Game of the Year Edition",
+        title: "Batman - Arkham Asylum - Game of the Year Edition (Europe) (En,Fr,De,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1EkaeiB2RyddqwDqot9fBOg" // Segundo enlace de descarga
 
     },       
     {
-        id: "Angry Birds™ Trilogy",
-        imgSrc: "assets/img/angrybird.jpg",
-        altText: "Angry Birds™ Trilogy",
-        title: "Angry Birds™ Trilogy (PCSE00322) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1d92pPKlZkzkGDCumU5UQOA" // Segundo enlace de descarga
+        id: "Bleach - Soul Resurreccion",
+        imgSrc: "assets/img/bleach.jpg",
+        altText: "Bleach - Soul Resurreccion (USA)",
+        title: "Bleach - Soul Resurreccion (USA).iso",
+        downloadLink2: "https://terabox.com/s/1Qf-AVrli1PLsptstif1L8A" // Segundo enlace de descarga
 
     },       
     {
-        id: "Attack On Titan Wings Of Freedom",
-        imgSrc: "assets/img/aotitan.jpg",
-        altText: "Attack On Titan Wings Of Freedom",
-        title: "Attack On Titan Wings Of Freedom (USA) (PCSE00812).zip",
-        downloadLink2: "https://nephobox.com/s/1w0q8bEj9ru5mZee3d_Djgw" // Segundo enlace de descarga
+        id: "Blur",
+        imgSrc: "assets/img/blur.jpg",
+        altText: "Blur (Europe) (En,Fr,De,Es,It)",
+        title: "Blur (Europe) (En,Fr,De,Es,It).iso",
+        downloadLink2: "hNysW4HQ" // Segundo enlace de descarga
 
     },       
     {
-        id: "Attack On Titan 2",
-        imgSrc: "assets/img/aotitan2.jpg",
-        altText: "Attack On Titan 2",
-        title: "Attack On Titan 2 (JPN) (PCSG01102).zip",
-        downloadLink2: "https://nephobox.com/s/1dgFzOsXbpBdyrUNw9Qk72g" // Segundo enlace de descarga
+        id: "Burnout Paradise",
+        imgSrc: "assets/img/burnout.jpg",
+        altText: "Burnout Paradise (USA)",
+        title: "Burnout Paradise (USA).iso",
+        downloadLink2: "https://terabox.com/s/1acAfI6keVGphon5Hso0PhQ" // Segundo enlace de descarga
         
     },       
     {
-        id: "BLAZBLUE CP EXTEND",
-        imgSrc: "assets/img/blazblue.jpg",
-        altText: "BLAZBLUE CP EXTEND",
-        title: "BLAZBLUE CP EXTEND (PCSE00677) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1d_nlz8pnqCSC9oCJQa-FwQ" // Segundo enlace de descarga
+        id: "Demon's Souls",
+        imgSrc: "assets/img/demonsouls.jpg",
+        altText: "Demon's Souls (USA)",
+        title: "Demon's Souls (USA).iso",
+        downloadLink2: "https://terabox.com/s/1gQcTUXRFEAvcDHjSXkvm3Q" // Segundo enlace de descarga
 
     },       
     {
-        id: "Borderlands 2",
-        imgSrc: "assets/img/borderlands2.jpg",
-        altText: "Borderlands 2",
-        title: "Borderlands 2 (PCSE00383) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1Kftg_nJOQ5RM8JuU2SWXpA" // Segundo enlace de descarga
+        id: "Digimon All-Star Rumble",
+        imgSrc: "assets/img/digimonall.jpg",
+        altText: "Digimon All-Star Rumble (USA) (En,Fr,Es,Pt)",
+        title: "Digimon All-Star Rumble (USA) (En,Fr,Es,Pt).iso",
+        downloadLink2: "https://terabox.com/s/1tZNysrH_jaHSj-w6_1Plnw" // Segundo enlace de descarga
 
     },       
     {
-        id: "Call of Duty Black Ops - Declassified",
-        imgSrc: "assets/img/cod.jpg",
-        altText: "Call of Duty Black Ops - Declassified",
-        title: "Call of Duty Black Ops - Declassified (PCSE00097) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1VJ4P-HZZUuj6JFegRQfkFw" // Segundo enlace de descarga
+        id: "Disney-Pixar Toy Story 3",
+        imgSrc: "assets/img/toystory3.jpg",
+        altText: "Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)",
+        title: "Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl).iso",
+        downloadLink2: "https://terabox.com/s/1D7NUQ3eSnLmBGydtDr6FxA" // Segundo enlace de descarga
 
     },       
     {
-        id: "Dragon Ball Z Battle of Z",
-        imgSrc: "assets/img/dragonball.jpg",
-        altText: "Dragon Ball Z Battle of Z",
-        title: "Dragon Ball Z Battle of Z (PCSE00305) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1VNNT9sgwEPantw6eOjD18w" // Segundo enlace de descarga
+        id: "Dragon Ball - Raging Blast",
+        imgSrc: "assets/img/dbragintblas.jpg",
+        altText: "Dragon Ball - Raging Blast (Europe) (En,Fr,De,Es,It)",
+        title: "Dragon Ball - Raging Blast (Europe) (En,Fr,De,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1v4Zt5KPZ_0HsoW_XWTQPWg" // Segundo enlace de descarga
 
     },       
     {
-        id: "FIFA13",
-        imgSrc: "assets/img/fifa13.jpg",
-        altText: "FIFA13",
-        title: "FIFA13 (USA) (PCSE00093).zip",
-        downloadLink2: "https://nephobox.com/s/1SAAZk_nmfTOjpp1xcUt8Fw" // Segundo enlace de descarga
+        id: "Dragon Ball - Raging Blast 2",
+        imgSrc: "assets/img/dbragintblas2.jpg",
+        altText: "Dragon Ball - Raging Blast 2 (USA) (En,Fr,Es) (v02.00)",
+        title: "Dragon Ball - Raging Blast 2 (USA) (En,Fr,Es) (v02.00).iso",
+        downloadLink2: "https://terabox.com/s/1ZPnDOUCy7l12eBkOmaxcgw" // Segundo enlace de descarga
 
     },       
     {
-        id: "FIFA15",
-        imgSrc: "assets/img/fifa15.jpg",
-        altText: "FIFA15",
-        title: "FIFA15 (PCSE00482).zip",
-        downloadLink2: "https://nephobox.com/s/1KZK6Mtq-C7uvJUvE7QUYPQ" // Segundo enlace de descarga
+        id: "Dragon Ball Z - Burst Limit",
+        imgSrc: "assets/img/dbbur.jpg",
+        altText: "Dragon Ball Z - Burst Limit (USA)",
+        title: "Dragon Ball Z - Burst Limit (USA).iso",
+        downloadLink2: "https://terabox.com/s/1oa5fieVM9ZCrqPWOubE28g" // Segundo enlace de descarga
 
     },       
     {
-        id: "Final Fantasy X HD Remaster",
-        imgSrc: "assets/img/final.jpg",
-        altText: "Final Fantasy X HD Remaster",
-        title: "Final Fantasy X HD Remaster (USA) (PCSE00293).zip",
-        downloadLink2: "https://nephobox.com/s/1buLzihGmCIboJb7McThk6A" // Segundo enlace de descarga
+        id: "Dragon Ball Z - Ultimate Tenkaichi",
+        imgSrc: "assets/img/dbbudokaitenk.jpg",
+        altText: "Dragon Ball Z - Ultimate Tenkaichi (USA) (En,Fr,Es)",
+        title: "Dragon Ball Z - Ultimate Tenkaichi (USA) (En,Fr,Es).iso",
+        downloadLink2: "https://terabox.com/s/1mflladvIGToQ7o6g9s795A" // Segundo enlace de descarga
 
     },       
     {
-        id: "Final Fantasy X 2 HD Remaster",
-        imgSrc: "assets/img/final2.jpg",
-        altText: "Final Fantasy X-2 HD Remaster",
-        title: "Final Fantasy X-2 HD Remaster (USA) (PCSE00283).zip",
-        downloadLink2: "https://nephobox.com/s/1jgGq3XYSspIxQFwjLLt0ng" // Segundo enlace de descarga
+        id: "Dragon Ball Z Budokai HD Collection",
+        imgSrc: "assets/img/dbbudokaihd.jpg",
+        altText: "Dragon Ball Z Budokai HD Collection",
+        title: "Dragon Ball Z Budokai HD Collection.iso",
+        downloadLink2: "https://terabox.com/s/174eNrSCa5yrqZ5Z0p1zn3g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Drakengard 3",
+        imgSrc: "assets/img/draken.jpg",
+        altText: "Drakengard 3 (USA) (En,Fr)",
+        title: "Drakengard 3 (USA) (En,Fr).iso",
+        downloadLink2: "https://terabox.com/s/1JrwxDX_podUvu17LWVw8dg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "DuckTales Remastered",
+        imgSrc: "assets/img/duckstales.jpg",
+        altText: "DuckTales Remastered",
+        title: "DuckTales Remastered.pkg",
+        downloadLink2: "8jNMV3B-xM8-LISg" // Segundo enlace de descarga
 
     },       
     {
         id: "God of War Collection",
-        imgSrc: "assets/img/godofwar.jpg",
-        altText: "God of War Collection",
-        title: "God of War Collection.zip",
-        downloadLink2: "https://nephobox.com/s/1cQxw6-P5sQRAEeAS0uBghg" // Segundo enlace de descarga
+        imgSrc: "assets/img/gowcole.jpg",
+        altText: "God of War Collection (Europe) (En,Fr,De,Es,It,Ru)",
+        title: "God of War Collection (Europe) (En,Fr,De,Es,It,Ru).iso",
+        downloadLink2: "https://terabox.com/s/1pEuSt6925y9lpSLk_lFYlg" // Segundo enlace de descarga
 
     },       
     {
-        id: "GRAVITY RUSH",
-        imgSrc: "assets/img/gravityrush.jpg",
-        altText: "GRAVITY RUSH",
-        title: "GRAVITY RUSH (PCSA00011).zip",
-        downloadLink2: "https://nephobox.com/s/1lnW9d-3lFzGU1qbjKAIPAw" // Segundo enlace de descarga
+        id: "God of War III E3 2009 Demo",
+        imgSrc: "assets/img/gow3demo.jpg",
+        altText: "God of War III E3 2009 Demo",
+        title: "God of War III E3 2009 Demo.pkg",
+        downloadLink2: "https://terabox.com/s/1tXp5-ao0Xpg05wDsgmqoag" // Segundo enlace de descarga
 
     },       
     {
-        id: "Guilty Gear XX Accent Core Plus R",
-        imgSrc: "assets/img/guilty.jpg",
-        altText: "Guilty Gear XX Accent Core Plus R",
-        title: "Guilty Gear XX Accent Core Plus R (USA) (PCSE00137).zip",
-        downloadLink2: "https://nephobox.com/s/1QThJHQ9HbHFz2cN_zqtUiA" // Segundo enlace de descarga
+        id: "Grand Theft Auto - San Andreas",
+        imgSrc: "assets/img/gtasa.jpg",
+        altText: "Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It,Ru)",
+        title: "Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It,Ru).iso",
+        downloadLink2: "https://terabox.com/s/1khDfpTyrPg7fyr9FSwXDhw" // Segundo enlace de descarga
 
     },       
     {
-        id: "Hyperdimension Neptunia Re;Birth1",
-        imgSrc: "assets/img/hyper1.jpg",
-        altText: "Hyperdimension Neptunia Re;Birth1",
-        title: "Hyperdimension Neptunia Re;Birth1 (USA) (PCSE00443).zip",
-        downloadLink2: "https://nephobox.com/s/16kNC5UPmND3O4UjxuAp1Vg" // Segundo enlace de descarga
+        id: "Grand Theft Auto IV",
+        imgSrc: "assets/img/gtaiv.jpg",
+        altText: "Grand Theft Auto IV (USA) (En,Fr,De,Es,It)",
+        title: "Grand Theft Auto IV (USA) (En,Fr,De,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1lavlWvoKPG3V8LD2PzhX4A" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Grand Theft Auto V",
+        imgSrc: "assets/img/gtav.jpg",
+        altText: "Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko)",
+        title: "Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko).iso",
+        downloadLink2: "https://terabox.com/s/1X-sJIvBX0j4qZCQ-DTb_Dg" // Segundo enlace de descarga
 
     },       
     {
-        id: "Hyperdimension Neptunia Re;Birth2 Sisters Generation",
-        imgSrc: "assets/img/hyper2.jpg",
-        altText: "Hyperdimension Neptunia Re;Birth2 Sisters Generation",
-        title: "Hyperdimension Neptunia Re;Birth2 Sisters Generation (USA) (PCSE00508).zip",
-        downloadLink2: "https://nephobox.com/s/1PBJ96OXVzM67Z7_ayWY56A" // Segundo enlace de descarga
+        id: "inFamous",
+        imgSrc: "assets/img/infamous.jpg",
+        altText: "inFamous (USA) (En,Fr,Es) (v02.00)",
+        title: "inFamous (USA) (En,Fr,Es) (v02.00).iso",
+        downloadLink2: "https://terabox.com/s/1fQaf-xm7VbFTfXC2HOxl9w" // Segundo enlace de descarga
 
     },       
     {
-        id: "Hyperdimension Neptunia Re;Birth3 V Generation",
-        imgSrc: "assets/img/hyper3.jpg",
-        altText: "Hyperdimension Neptunia Re;Birth3 V Generation",
-        title: "Hyperdimension Neptunia Re;Birth3 V Generation (USA) (PCSE00661).zip",
-        downloadLink2: "https://nephobox.com/s/1iZ5MEPLE--59QSn5D5U1Ig" // Segundo enlace de descarga
+        id: "Life Is Strange - Episode 1 - Chrysalis",
+        imgSrc: "assets/img/lifeof.jpg",
+        altText: "Life Is Strange - Episode 1 - Chrysalis (USA) (Trial)",
+        title: "Life Is Strange - Episode 1 - Chrysalis (USA) (Trial).pkg",
+        downloadLink2: "https://terabox.com/s/1RfbONL3fKQhv0KOkQ9JwXA" // Segundo enlace de descarga
 
     },       
     {
-        id: "Injustice Gods Among Us - Ultimate Edition",
-        imgSrc: "assets/img/injustice.jpg",
-        altText: "Injustice Gods Among Us - Ultimate Edition",
-        title: "Injustice Gods Among Us - Ultimate Edition (PCSE00271) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1WcF9wTVIThd_MJ3Ys_h4Hg" // Segundo enlace de descarga
+        id: "Limbo",
+        imgSrc: "assets/img/limbo.jpg",
+        altText: "Limbo (USA) (Trial)",
+        title: "Limbo (USA) (Trial).pkg",
+        downloadLink2: "https://terabox.com/s/12F5vL0Eu_lUtOYRPgaZ7oQ" // Segundo enlace de descarga
 
     },       
     {
-        id: "J-STARS Victory VS",
-        imgSrc: "assets/img/jstars.jpg",
-        altText: "J-STARS Victory VS",
-        title: "J-STARS Victory VS (PCSE00595) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1_bSdOYVemI6YQgQB62pQqg" // Segundo enlace de descarga
+        id: "Midnight Club - Los Angeles",
+        imgSrc: "assets/img/midnight.jpg",
+        altText: "Midnight Club - Los Angeles (USA) (En,Fr,De,Es,It)",
+        title: "Midnight Club - Los Angeles (USA) (En,Fr,De,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1hY9foGD0q7iIiO1WwZELOA" // Segundo enlace de descarga
 
     },       
     {
-        id: "Killzone Mercenary",
-        imgSrc: "assets/img/killzone.jpg",
-        altText: "Killzone Mercenary",
-        title: "Killzone Mercenary (PCSA00107) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1_V2eMDbVmNRT0tQHj3dmug" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "LittleBigPlanet PlayStationVita",
-        imgSrc: "assets/img/bigplanet.jpg",
-        altText: "LittleBigPlanet PlayStationVita",
-        title: "LittleBigPlanet PlayStationVita (PCSA00017) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1r3OXRlC-JevqKjiC3UwGLQ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Metal Gear Solid 3",
-        imgSrc: "assets/img/metalgear2.jpg",
-        altText: "Metal Gear Solid 3",
-        title: "Metal Gear Solid 3 (PCSE00079) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1A6PmfPbHiwK5Kl18sOck2A" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Metal Gear Solid HD",
-        imgSrc: "assets/img/metalsolidhd.jpg",
-        altText: "Metal Gear Solid HD",
-        title: "Metal Gear Solid HD (PCSE00020) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1yVgQcIbELwIEEcMnNgU9yw" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "METAL SLUG 3",
-        imgSrc: "assets/img/metal3.jpg",
-        altText: "METAL SLUG 3",
-        title: "METAL SLUG 3 (PCSE00665) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/16RpvOIpWnHK9dSl3EMkmTA" // Segundo enlace de descarga
+        id: "Naruto Shippuden - Ultimate Ninja Storm Generations",
+        imgSrc: "assets/img/narutostorm.jpg",
+        altText: "Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)",
+        title: "Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo).pkg",
+        downloadLink2: "S3zRnA0Hpy6Ebw" // Segundo enlace de descarga
         
     },       
     {
-        id: "Minecraft - PlayStation®Vita Edition",
-        imgSrc: "assets/img/minecraft.jpg",
-        altText: "Minecraft - PlayStation®Vita Edition",
-        title: "Minecraft - PlayStation®Vita Edition [PCSB00560] [EUR].zip",
-        downloadLink2: "https://nephobox.com/s/1syd5IkV2FxfF9y5LcgYQWQ" // Segundo enlace de descarga
+        id: "Ninja Gaiden Sigma 2",
+        imgSrc: "assets/img/ninjagaiden2.jpg",
+        altText: "Ninja Gaiden Sigma 2 (Europe) (En,Fr,De,Es,It)",
+        title: "Ninja Gaiden Sigma 2 (Europe) (En,Fr,De,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1PUoQ6JZlqWIxz5P8dn52ng" // Segundo enlace de descarga
 
     },       
     {
-        id: "Mario Kart Vita",
-        imgSrc: "assets/img/mkvita.jpg",
-        altText: "Mario Kart Vita",
-        title: "Mario Kart Vita.vpk",
-        downloadLink2: "https://nephobox.com/s/1mbeFVeEYUh-C5cmjVAaHSg" // Segundo enlace de descarga
+        id: "Pac-Man Championship Edition DX",
+        imgSrc: "assets/img/pacmandx.jpg",
+        altText: "Pac-Man Championship Edition DX (USA) (Trial)",
+        title: "Pac-Man Championship Edition DX (USA) (Trial).pkg",
+        downloadLink2: "https://terabox.com/s/1pp7-McYBP08pvidjaJkN4A" // Segundo enlace de descarga
 
     },       
     {
-        id: "MLB 15 The Show",
-        imgSrc: "assets/img/mlb15.jpg",
-        altText: "MLB 15 The Show",
-        title: "MLB 15 The Show (PCSA00511) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1JLoZcsVSRj4mnuGb4JckkQ" // Segundo enlace de descarga
+        id: "PlayStation All-Stars Battle Royale",
+        imgSrc: "assets/img/playstation.jpg",
+        altText: "PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt)",
+        title: "PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).iso",
+        downloadLink2: "https://terabox.com/s/1XyTWczX3KW33Lfze9nAzRA" // Segundo enlace de descarga
 
     },       
     {
-        id: "Mortal Kombat 9",
-        imgSrc: "assets/img/mk9.jpg",
-        altText: "Mortal Kombat 9",
-        title: "Mortal Kombat 9 (PCSE00023).zip",
-        downloadLink2: "https://nephobox.com/s/1bpFK6DX8de3uVTuQA1mXUg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "One Piece Unlimited World Red",
-        imgSrc: "assets/img/opunlimited.jpg",
-        altText: "One Piece Unlimited World Red",
-        title: "One Piece Unlimited World Red (USA) (PCSE00423).zip",
-        downloadLink2: "https://nephobox.com/s/1lGp0f4jI_zLqQZwR53uePg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "PlayStation All-Stars",
-        imgSrc: "assets/img/playallstars.jpg",
-        altText: "PlayStation All-Stars",
-        title: "PlayStation All-Stars (PCSA00069) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1sg6RNoAhfDTD-alvQe-YdQ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Rayman Legends",
+        id: "Rayman Origins",
         imgSrc: "assets/img/rayman.jpg",
-        altText: "Rayman Legends",
-        title: "Rayman Legends (PCSE00277) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1OJoT4KuvTMb9vbY33NVQ6w" // Segundo enlace de descarga
+        altText: "Rayman Origins (Europe) (En,Fr,De,Es,It,Nl)",
+        title: "Rayman Origins (Europe) (En,Fr,De,Es,It,Nl).iso",
+        downloadLink2: "https://terabox.com/s/146iLv7OrnZRcqxuh9tob-A" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Resident Evil 5",
+        imgSrc: "assets/img/re5demo.jpg",
+        altText: "Resident Evil 5 (DEMO)",
+        title: "Resident Evil 5 (DEMO).pkg",
+        downloadLink2: "https://terabox.com/s/1RHPsbSoR_-hUjWsr7xp7ZQ" // Segundo enlace de descarga
 
     },       
     {
-        id: "Resident Evil Revelations 2",
-        imgSrc: "assets/img/resident.jpg",
-        altText: "Resident Evil Revelations 2",
-        title: "Resident Evil Revelations 2 (USA) (PCSE00608).zip",
-        downloadLink2: "https://nephobox.com/s/1vyJnxVQiP2IISKe0bLW76Q" // Segundo enlace de descarga
+        id: "Saint Seiya - Soldiers' Soul - Knights of the Zodiac",
+        imgSrc: "assets/img/saintseiya.jpg",
+        altText: "Saint Seiya - Soldiers' Soul - Knights of the Zodiac (Europe) (En,Fr,Es,It)",
+        title: "Saint Seiya - Soldiers' Soul - Knights of the Zodiac (Europe) (En,Fr,Es,It).iso",
+        downloadLink2: "https://terabox.com/s/1vCsbqxEHWpSTHUNjnBc1rQ" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Simpsons Game, The",
+        imgSrc: "assets/img/simpson.jpg",
+        altText: "Simpsons Game, The (USA)",
+        title: "Simpsons Game, The (USA).iso",
+        downloadLink2: "https://terabox.com/s/14LtIztxRHlj3obE6hAHOkQ" // Segundo enlace de descarga
 
     },       
     {
-        id: "Resistance - Burning Skies",
-        imgSrc: "assets/img/resistance.jpg",
-        altText: "Resistance - Burning Skies",
-        title: "Resistance - Burning Skies (PCSA00008) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1PvyO-jzzlBa_-EoASA4n2g" // Segundo enlace de descarga
+        id: "Sonic The Hedgehog 4 - Episode II",
+        imgSrc: "assets/img/sonic4episade2.jpg",
+        altText: "Sonic The Hedgehog 4 - Episode II (USA) (Trial)",
+        title: "Sonic The Hedgehog 4 - Episode II (USA) (Trial).pkg",
+        downloadLink2: "https://terabox.com/s/1-3eHQBgWgYlurtS9tHyVYg" // Segundo enlace de descarga
 
     },       
     {
-        id: "Ridge Racer",
-        imgSrc: "assets/img/ridge.jpg",
-        altText: "Ridge Racer",
-        title: "Ridge Racer (USA) (PCSE00001).zip",
-        downloadLink2: "https://nephobox.com/s/1myJAq2ciMgdzWn1oH1bOQA" // Segundo enlace de descarga
+        id: "Tekken Tag Tournament 2",
+        imgSrc: "assets/img/tekkentourta2.jpg",
+        altText: "Tekken Tag Tournament 2 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru)",
+        title: "Tekken Tag Tournament 2 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).iso",
+        downloadLink2: "https://terabox.com/s/1X5JVxg7AyU1yi1uyTilULg" // Segundo enlace de descarga
 
     },       
     {
-        id: "Sly Cooper - Thieves in Time",
-        imgSrc: "assets/img/slycoopertime.jpg",
-        altText: "Sly Cooper - Thieves in Time",
-        title: "Sly Cooper - Thieves in Time (PCSA00068).zip",
-        downloadLink2: "https://nephobox.com/s/1Yzs3z7yBucktRA5d9wSATQ" // Segundo enlace de descarga
+        id: "TMNT - Turtles in Time Re-Shelled",
+        imgSrc: "assets/img/turtle.jpg",
+        altText: "TMNT - Turtles in Time Re-Shelled",
+        title: "TMNT - Turtles in Time Re-Shelled.iso",
+        downloadLink2: "hNysW4HQ" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Virtua Fighter 5",
+        imgSrc: "assets/img/virtua5.jpg",
+        altText: "Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It)",
+        title: "Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It).iso",
+        downloadLink2: "hOfJNPBlQ" // Segundo enlace de descarga
 
     },       
     {
-        id: "Street Fighter X Tekken",
-        imgSrc: "assets/img/streetfigtherxtekken.jpg",
-        altText: "Street Fighter X Tekken",
-        title: "Street Fighter X Tekken (PCSE00005) (USA).zip",
-        downloadLink2: "https://nephobox.com/s/1PX0D96qnkgAZ5irMVmfUSw" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Sword Art Online Lost Song",
-        imgSrc: "assets/img/sword.jpg",
-        altText: "Sword Art Online Lost Song",
-        title: "Sword Art Online Lost Song (USA) (PCSE00740).zip",
-        downloadLink2: "https://nephobox.com/s/1Ey2Deeno8K6wLVZjHHyA9g" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "The Amazing Spider-Man",
-        imgSrc: "assets/img/spiderman2.jpg",
-        altText: "The Amazing Spider-Man",
-        title: "The Amazing Spider-Man (USA) (PCSE00333).zip",
-        downloadLink2: "https://nephobox.com/s/12NVGONHqDUr-mi_HvQl_Aw" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "The Binding of Isaac - Rebirth",
-        imgSrc: "assets/img/isaac.jpg",
-        altText: "The Binding of Isaac - Rebirth",
-        title: "The Binding of Isaac - Rebirth (PCSE00507) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1bbvQor2ajMuSXfw11kJu3w" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "The Walking Dead - S2",
-        imgSrc: "assets/img/walkingdead.jpg",
-        altText: "The Walking Dead - S2",
-        title: "The Walking Dead - S2 (PCSE00372) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1PF4-TbMgHShf25xh1GyVFQ" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Toukiden 2",
-        imgSrc: "assets/img/toukiden2.jpg",
-        altText: "Toukiden 2",
-        title: "Toukiden 2 (USA) (PCSE00940).zip",
-        downloadLink2: "https://nephobox.com/s/1rkFDc7Yps7ZvtKMfOyL3yg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Uncharted Golden Abyss",
-        imgSrc: "assets/img/Uncharted.jpg",
-        altText: "Uncharted Golden Abyss",
-        title: "Uncharted Golden Abyss (PCSA00029).zip",
-        downloadLink2: "https://nephobox.com/s/1HbaVqJpqGrziVdy0XcCMQA" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "Velocity2X",
-        imgSrc: "assets/img/velocity2x.jpg",
-        altText: "Velocity2X",
-        title: "Velocity2X (PCSE00374) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/16elIrDlQD3SQwIBaO6gYDg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "WipEout 2048",
-        imgSrc: "assets/img/wipeout.jpg",
-        altText: "WipEout 2048",
-        title: "WipEout 2048 (PCSA00015) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/18LjujkQrUG6qCUU1jI_TCg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "WRC 5",
-        imgSrc: "assets/img/wrc5.jpg",
-        altText: "WRC 5",
-        title: "WRC 5 (PCSE00667) (NTSC).zip",
-        downloadLink2: "https://nephobox.com/s/1X0SJza_HoAwEI5dQRGw_Lg" // Segundo enlace de descarga
-
-    },       
-    {
-        id: "YAKUZA 0 Companion app",
-        imgSrc: "assets/img/yakuza0.jpg",
-        altText: "YAKUZA 0 Companion app",
-        title: "YAKUZA 0 Companion app (JPN) (PCSG00503).zip",
-        downloadLink2: "https://nephobox.com/s/1ERVcMwOLzOoAXY_FR9LtwA" // Segundo enlace de descarga
-    }
+        id: "X-Men Origins Wolverine Uncaged Edition",
+        imgSrc: "assets/img/xmen.jpg",
+        altText: "X-Men Origins Wolverine Uncaged Edition",
+        title: "X-Men Origins Wolverine Uncaged Edition.iso",
+        downloadLink2: "https://terabox.com/s/1qords7mH1ex5Tt23lQ2KxA" // Segundo enlace de descarga
+    },
 ];
 
 // Agregar todos los juegos al DOM
