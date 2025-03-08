@@ -317,7 +317,7 @@ const juegos = [
         imgSrc: "assets/img/spiderman2.jpg",
         altText: "The Amazing Spider-Man",
         title: "The Amazing Spider-Man (USA) (PCSE00333).zip",
-        downloadLink2: "https://nephobox.com/s/12NVGONHqDUr-mi_HvQl_Aw" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/163LDWUrs8qD6KCN-Ni8AXA" // Segundo enlace de descarga
 
     },       
     {
