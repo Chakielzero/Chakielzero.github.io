@@ -17,6 +17,46 @@ const juegos = [
 
     },       
     {
+        id: "Assassin's Creed IV Black Flag",
+        imgSrc: "assets/img/assiv.jpg",
+        altText: "Assassin's Creed IV Black Flag",
+        title: "Assassin's Creed IV Black Flag",
+        downloadLink2: "https://terabox.com/s/1zIFbJqVme6AkCHvwzkGHog" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Batman Arkham Asylum GOTY",
+        imgSrc: "assets/img/batmanasy.jpg",
+        altText: "Batman Arkham Asylum GOTY",
+        title: "Batman Arkham Asylum GOTY",
+        downloadLink2: "https://terabox.com/s/14QYoqdpMxP9ppGtHppOxIg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Cuphead",
+        imgSrc: "assets/img/cuphead.jpg",
+        altText: "Cuphead",
+        title: "Cuphead",
+        downloadLink2: "https://terabox.com/s/1QzkpWlFpdml0wnpl6IVElg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "CRISIS CORE FINAL FANTASY VII REUNION",
+        imgSrc: "assets/img/finalfan7.jpg",
+        altText: "CRISIS CORE FINAL FANTASY VII REUNION",
+        title: "CRISIS CORE FINAL FANTASY VII REUNION",
+        downloadLink2: "https://terabox.com/s/1JbMg10BDOjmBhjgbIAhHug" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Dark-Souls-III",
+        imgSrc: "assets/img/dark3.jpg",
+        altText: "Dark-Souls-III",
+        title: "Dark-Souls-III",
+        downloadLink2: "https://terabox.com/s/1biTow4umayP-bq4OS-ZDTQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Dead Space 2",
         imgSrc: "assets/img/dead2.jpg",
         altText: "Dead Space 2",
@@ -57,6 +97,14 @@ const juegos = [
 
     },       
     {
+        id: "Dragon Ball Xenoverse",
+        imgSrc: "assets/img/dbxeno.jpg",
+        altText: "Dragon Ball Xenoverse",
+        title: "Dragon Ball Xenoverse",
+        downloadLink2: "https://terabox.com/s/15a5thHisp1HM7Htkt5YKNQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Dragon Ball Z Kakarot",
         imgSrc: "assets/img/dbkakarot.jpg",
         altText: "Dragon Ball Z Kakarot",
@@ -65,11 +113,35 @@ const juegos = [
 
     },       
     {
+        id: "Fallout 4",
+        imgSrc: "assets/img/fallout4.jpg",
+        altText: "Fallout 4",
+        title: "Fallout 4",
+        downloadLink2: "https://terabox.com/s/1k9CHM6yApNouep7Q_z34xA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Far Cry 3",
         imgSrc: "assets/img/farcry3.jpg",
         altText: "Far Cry 3",
         title: "Far Cry 3",
         downloadLink2: "https://nephobox.com/s/1IfllUSbc9QaqugwqPmTzcQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy's: Into the Pit",
+        imgSrc: "assets/img/fnafinto.jpg",
+        altText: "Five Nights at Freddy's: Into the Pit",
+        title: "Five Nights at Freddy's: Into the Pit",
+        downloadLink2: "https://terabox.com/s/1eY-mNwRC4IY7QmpI8mQpJQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "God of War",
+        imgSrc: "assets/img/gow.jpg",
+        altText: "God of War",
+        title: "God of War",
+        downloadLink2: "https://terabox.com/s/1cYx9MBIDlYgbrsZ10qpT7A" // Segundo enlace de descarga
 
     },       
     {
@@ -97,11 +169,35 @@ const juegos = [
 
     },       
     {
+        id: "Mafia II",
+        imgSrc: "assets/img/mafia2.jpg",
+        altText: "Mafia II",
+        title: "Mafia II",
+        downloadLink2: "https://terabox.com/s/1HM3fMmFFihdaRyvNJkyzUg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Metal Gear Rising Revengeance",
         imgSrc: "assets/img/mgr.jpg",
         altText: "Metal Gear Rising Revengeance",
         title: "Metal Gear Rising Revengeance",
         downloadLink2: "https://nephobox.com/s/1lnU-vLowBjDU6CSTjk0bSQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "MiSide",
+        imgSrc: "assets/img/miside.jpg",
+        altText: "MiSide",
+        title: "MiSide",
+        downloadLink2: "https://terabox.com/s/1Sn8X9kz_D-NfkEaLr_ciIQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mortal Kombat X",
+        imgSrc: "assets/img/mortalkombatx.jpg",
+        altText: "Mortal Kombat X",
+        title: "Mortal Kombat X",
+        downloadLink2: "https://terabox.com/s/1x80zCSWR0c8HjSJdCJpK8g" // Segundo enlace de descarga
         
     },       
     {
@@ -137,11 +233,35 @@ const juegos = [
 
     },       
     {
+        id: "Portal",
+        imgSrc: "assets/img/portal.jpg",
+        altText: "Portal",
+        title: "Portal",
+        downloadLink2: "https://terabox.com/s/1puRcXBII7Yg5v_xdTo1WOA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Resident Evil 3 Remake",
         imgSrc: "assets/img/residentevil3remake.jpg",
         altText: "Resident Evil 3 Remake",
         title: "Resident Evil 3 Remake",
         downloadLink2: "https://nephobox.com/s/1GA49eLcDwypnwXG-KCEVOw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Resident Evil 5 Gold Latino",
+        imgSrc: "assets/img/resident5.jpg",
+        altText: "Resident Evil 5 Gold Latino",
+        title: "Resident Evil 5 Gold Latino",
+        downloadLink2: "https://terabox.com/s/1K7Xnmgx76qq37dTcEGSr4Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Resident Evil Revelation Complete",
+        imgSrc: "assets/img/rereve.jpg",
+        altText: "Resident Evil Revelation Complete",
+        title: "Resident Evil Revelation Complete",
+        downloadLink2: "https://terabox.com/s/12KqUw4kPAM6dFAgq5bTvLw" // Segundo enlace de descarga
 
     },       
     {
@@ -158,6 +278,14 @@ const juegos = [
         altText: "Saints Row: The Third",
         title: "Saints Row: The Third",
         downloadLink2: "https://nephobox.com/s/1l-tMy48d67WNkHqFx06UFw" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Sonic Unleashead Recompiled",
+        imgSrc: "assets/img/sonicunleashead.jpg",
+        altText: "Sonic Unleashead Recompiled",
+        title: "Sonic Unleashead Recompiled",
+        downloadLink2: "https://terabox.com/s/1w6zUSbZf8gBWZMsDAsgL2g" // Segundo enlace de descarga
 
     },       
     {
@@ -177,11 +305,35 @@ const juegos = [
 
     },       
     {
+        id: "Street Fighter V",
+        imgSrc: "assets/img/streetv.jpg",
+        altText: "Street Fighter V",
+        title: "Street Fighter V",
+        downloadLink2: "https://terabox.com/s/1U8AauRRPPZ2ypJT7rL9uIQ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "TEKKEN 7 Definitive Edition",
+        imgSrc: "assets/img/tekken7.jpg",
+        altText: "TEKKEN 7 Definitive Edition",
+        title: "TEKKEN 7 Definitive Edition",
+        downloadLink2: "https://terabox.com/s/1XpnI0VoBAFv7GqkF1yPh8g" // Segundo enlace de descarga
+
+    },       
+    {
         id: "The Amazing Spider Man 2",
         imgSrc: "assets/img/thespiderman2.jpg",
         altText: "The Amazing Spider Man 2",
         title: "The Amazing Spider Man 2",
         downloadLink2: "https://nephobox.com/s/1O3KWhVAeTDP0O8r7fSSwdQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "The Legend of Korra",
+        imgSrc: "assets/img/korra.jpg",
+        altText: "The Legend of Korra",
+        title: "The Legend of Korra",
+        downloadLink2: "https://terabox.com/s/1lhHZyzd8KcROwKhqwCs8Kw" // Segundo enlace de descarga
     }
 ];
 
