@@ -1,19 +1,11 @@
 // Lista de juegos
-const juegos = [
-    {
-        id: "7 Sins",
-        imgSrc: "assets/img/7sins.jpg",
-        altText: "7 Sins",
-        title: "7 Sins.chd",
-        downloadLink2: "https://nephobox.com/s/1Siq1BDOHc-9be2wAyoSh0A" // Segundo enlace de descarga
-    },       
+const juegos = [       
     {
         id: "A Short Hike",
         imgSrc: "assets/img/HIKE.jpg",
         altText: "A Short Hike",
         title: "A Short Hike.nsp",
         downloadLink2: "Link" // Segundo enlace de descarga
-
     },       
     {
         id: "ANIMAL WELL",
