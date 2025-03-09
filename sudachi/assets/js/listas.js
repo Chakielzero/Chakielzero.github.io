@@ -712,10 +712,10 @@ const juegos = [
 
     },       
     {
-        id: "Sae Of Stars",
+        id: "Sea Of Stars",
         imgSrc: "assets/img/SEA.jpg",
-        altText: "Sae Of Stars",
-        title: "Sae Of Stars.xci/nsp",
+        altText: "Sea Of Stars",
+        title: "Sea Of Stars.xci/nsp",
         downloadLink2: "Link" // Segundo enlace de descarga
 
     },       
