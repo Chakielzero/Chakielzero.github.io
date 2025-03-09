@@ -665,7 +665,7 @@ const juegos = [
     },       
     {
         id: "Resident Evil 5",
-        imgSrc: "assets/img/RV.jpg",
+        imgSrc: "assets/img/RV5.jpg",
         altText: "Resident Evil 5",
         title: "Resident Evil 5.nsp",
         downloadLink2: "Link" // Segundo enlace de descarga
