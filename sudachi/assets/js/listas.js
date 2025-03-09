@@ -24,10 +24,10 @@ const juegos = [
 
     },       
     {
-        id: "BACKROOM ESCAPE",
+        id: "BACKROOM ESCAPE LABYRINTH HORROR",
         imgSrc: "assets/img/BACKROOM.jpg",
-        altText: "BACKROOM ESCAPE",
-        title: "BACKROOM ESACPE.nsp",
+        altText: "BACKROOM ESCAPE LABYRINTH HORROR",
+        title: "BACKROOM ESCAPE LABYRINTH HORROR.nsp",
         downloadLink2: "https://terabox.com/s/1X_CFSVPS3-IHW_hd7yR1Pg" // Segundo enlace de descarga
 
     },       
