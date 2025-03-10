@@ -387,8 +387,8 @@ const juegos = [
         id: "Mario + Rabbids Sparks of Hope",
         imgSrc: "assets/img/MRBID.jpg",
         altText: "Mario + Rabbids Sparks of Hope",
-        title: "Mario + Rabbids Sparks of Hope.xci (PENDIENTE)",
-        downloadLink2: "https://terabox.com/s/1VNDgXM9mFlkER8KvqbMZ8g" // Segundo enlace de descarga
+        title: "Mario + Rabbids Sparks of Hope.xci",
+        downloadLink2: "https://terabox.com/s/1OE4MwQmwvkpuRSp_8eE7Rw" // Segundo enlace de descarga
 
     },       
     {
@@ -627,16 +627,16 @@ const juegos = [
         id: "Pokémon Escudo",
         imgSrc: "assets/img/ESCUDO.jpg",
         altText: "Pokémon Escudo",
-        title: "Pokémon Escudo.nsp (PRONTO)",
-        downloadLink2: "jjj" // Segundo enlace de descarga
+        title: "Pokémon Escudo.xci",
+        downloadLink2: "https://terabox.com/s/1RBGe1SCRh5LJUHsqUCdsCw" // Segundo enlace de descarga
 
     },       
     {
         id: "Pokémon Espada",
         imgSrc: "assets/img/ESPADA.jpg",
         altText: "Pokémon Espada",
-        title: "Pokémon Espada.nsp (PRONTO)",
-        downloadLink2: "jjj" // Segundo enlace de descarga 
+        title: "Pokémon Espada.xci",
+        downloadLink2: "https://terabox.com/s/1isNOfaLQ-LOWFevmAKX73Q" // Segundo enlace de descarga 
 
     },       
     {
@@ -651,8 +651,8 @@ const juegos = [
         id: "Pokémon Leyendas Arceus",
         imgSrc: "assets/img/PLA.jpg",
         altText: "Pokémon Leyendas Arceus",
-        title: "Pokémon Leyendas Arceus.nsp (PRONTO)",
-        downloadLink2: "jjj" // Segundo enlace de descarga  
+        title: "Pokémon Leyendas Arceus.xci",
+        downloadLink2: "https://terabox.com/s/1ghqUU9fRKsu29OQeI7n99Q" // Segundo enlace de descarga  
 
     },       
     {
