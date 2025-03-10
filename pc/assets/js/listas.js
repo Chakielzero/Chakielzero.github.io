@@ -169,6 +169,14 @@ const juegos = [
 
     },       
     {
+        id: "Mad Max",
+        imgSrc: "assets/img/mad.jpg",
+        altText: "Mad Max",
+        title: "Mad Max",
+        downloadLink2: "https://terabox.com/s/1tVH3fnUB9LSzwve1XFv6Gg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Mafia II",
         imgSrc: "assets/img/mafia2.jpg",
         altText: "Mafia II",
