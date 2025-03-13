@@ -62,6 +62,13 @@ const juegos = [
         title: "Batman - Arkham Origins (USA) (DLC) (v16).wua",
         downloadLink2: "https://nephobox.com/s/1u53fh0rJp_fL_FX_Xi_e1A" // Segundo enlace de descarga
 
+    },       
+    {
+        id: "BAYONETTA",
+        imgSrc: "assets/img/bayonetta.jpg",
+        altText: "BAYONETTA",
+        title: "BAYONETTA (USA).wua",
+        downloadLink2: "https://terabox.com/s/1HyeiqDjOyQhw13KJgrLP9w" // Segundo enlace de descarga
 
     },
     {
@@ -70,6 +77,14 @@ const juegos = [
         altText: "BAYONETTA 2",
         title: "BAYONETTA 2 (EU).wua",
         downloadLink2: "https://nephobox.com/s/1QhuYko6DFDih32C3OnAdAg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "BEN 10 OMNIVERSE",
+        imgSrc: "assets/img/ben10.jpg",
+        altText: "BEN 10 OMNIVERSE",
+        title: "BEN 10 OMNIVERSE (US).wua",
+        downloadLink2: "https://terabox.com/s/112KFwn6T5-ywTmrDJZg0rQ" // Segundo enlace de descarga
 
     },
     {
@@ -142,6 +157,22 @@ const juegos = [
         altText: "Disney Epic Mickey 2",
         title: "Disney Epic Mickey 2 (USA).wua",
         downloadLink2: "https://nephobox.com/s/1AIymX6kewxKXB2wYI0wFBw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Disney Infinity 2.0",
+        imgSrc: "assets/img/disney2.jpg",
+        altText: "Disney Infinity 2.0",
+        title: "Disney Infinity 2.0 (US).wua",
+        downloadLink2: "https://terabox.com/s/1G7laAgRJRmJTZI9txT7phQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Disney Infinity 3.0",
+        imgSrc: "assets/img/disney3.jpg",
+        altText: "Disney Infinity 3.0",
+        title: "Disney Infinity 3.0 (US).wua",
+        downloadLink2: "https://terabox.com/s/1OeuPKdhQ9_o-XsFVz-kNYQ" // Segundo enlace de descarga
 
     },
     {
@@ -302,6 +333,14 @@ const juegos = [
         altText: "Mario vs. Donkey Kong Tipping Stars",
         title: "Mario vs. Donkey Kong Tipping Stars (USA).wua",
         downloadLink2: "https://nephobox.com/s/1jBhu0DFAszxB8u_f1Qzmhg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Mass Effect 3 Special Edition",
+        imgSrc: "assets/img/mass3.jpg",
+        altText: "Mass Effect 3 Special Edition",
+        title: "Mass Effect 3 Special Edition (USA) (v16).wua",
+        downloadLink2: "https://terabox.com/s/15VC_SSNkYOBibOg7_8kaRw" // Segundo enlace de descarga
 
     },
     {
@@ -495,10 +534,18 @@ const juegos = [
         title: "Terraria (USA) (v32).wua",
         downloadLink2: "https://nephobox.com/s/1riJFxxjOtG7m3PiKJXOQWQ" // Segundo enlace de descarga
 
+    },       
+    {
+        id: "The Amazing Spider-Man Ultimate Edition",
+        imgSrc: "assets/img/Spiderman2.jpg",
+        altText: "The Amazing Spider-Man Ultimate Edition",
+        title: "The Amazing Spider-Man Ultimate Edition (USA).wua",
+        downloadLink2: "https://terabox.com/s/14ybGee7xKCubbjF_ajuRJQ" // Segundo enlace de descarga
+
     },
     {
         id: "The Amazing Spider-Man 2",
-        imgSrc: "assets/img/Spiderman2.jpg",
+        imgSrc: "assets/img/spiderman.jpg",
         altText: "The Amazing Spider-Man 2",
         title: "The Amazing Spider-Man 2 (USA).wua",
         downloadLink2: "https://nephobox.com/s/1SMKDgvftzkcP7_9BEqg-tA" // Segundo enlace de descarga
@@ -566,6 +613,14 @@ const juegos = [
         altText: "Turbo Super Stunt Squad",
         title: "Turbo Super Stunt Squad (USA).wua",
         downloadLink2: "https://nephobox.com/s/1brv8V9sXONFOF0ukiQuqDQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "WATCH DOGS",
+        imgSrc: "assets/img/watch.jpg",
+        altText: "WATCH DOGS",
+        title: "WATCH DOGS (USA).wua",
+        downloadLink2: "https://terabox.com/s/1uMHpXZqSMq_f5ClfH4dOCg" // Segundo enlace de descarga
 
     },
     {
