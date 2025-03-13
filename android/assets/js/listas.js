@@ -172,7 +172,7 @@ const juegos = [
         id: "Sonic 2 Absolute",
         imgSrc: "assets/img/SONIC1.jpg",
         altText: "Sonic 2 Absolute",
-        title: "Sonic 2 Absolute.apk",
+        title: "Sonic 2 Absolute (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1M3oIqqfq3uPQXywdocdYGw" // Segundo enlace de descarga
         
 
@@ -181,7 +181,7 @@ const juegos = [
         id: "Sonic Maps",
         imgSrc: "assets/img/SONIC2.jpg",
         altText: "Sonic Maps",
-        title: "Sonic Maps.apk",
+        title: "Sonic Maps (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1BEYNbOAUsTUwkD9C10fLgQ" // Segundo enlace de descarga
 
     },       
@@ -189,7 +189,7 @@ const juegos = [
         id: "Sonic P-06",
         imgSrc: "assets/img/SONIC3.jpg",
         altText: "Sonic P-06",
-        title: "Sonic P-06.apk",
+        title: "Sonic P-06 (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/15NGbUygkq-5lIl1-lG_xEA" // Segundo enlace de descarga
         
     },       
@@ -197,7 +197,7 @@ const juegos = [
         id: "Sonic 3 A.I.R",
         imgSrc: "assets/img/SONIC4.jpg",
         altText: "Sonic 3 A.I.R",
-        title: "Sonic 3 A.I.R.apk",
+        title: "Sonic 3 A.I.R (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1jRjSPB4hLOmNhN2lx1nlFQ" // Segundo enlace de descarga
 
     },       
@@ -205,7 +205,7 @@ const juegos = [
         id: "Sonic GT",
         imgSrc: "assets/img/SONIC5.jpg",
         altText: "Sonic GT",
-        title: "Sonic GT.apk",
+        title: "Sonic GT (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1IMgtJLvkkScau9VWc71FaA" // Segundo enlace de descarga
 
     },       
@@ -213,7 +213,7 @@ const juegos = [
         id: "Sonic Momentum",
         imgSrc: "assets/img/SONIC6.jpg",
         altText: "Sonic Momentum",
-        title: "Sonic Momentum.apk",
+        title: "Sonic Momentum (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1-UJx84DfQKYN-t-XD_umEg" // Segundo enlace de descarga
         
     },       
@@ -221,7 +221,7 @@ const juegos = [
         id: "Sonic Moon",
         imgSrc: "assets/img/SONIC7.jpg",
         altText: "Sonic Moon",
-        title: "Sonic Moon.apk",
+        title: "Sonic Moon (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1redua24OtZ06emahgiTnpA" // Segundo enlace de descarga
 
     },       
@@ -229,7 +229,7 @@ const juegos = [
         id: "Sonic SMS Remake 2",
         imgSrc: "assets/img/SONIC8.jpg",
         altText: "Sonic SMS Remake 2",
-        title: "Sonic SMS Remake 2.apk",
+        title: "Sonic SMS Remake 2 (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1p9FgH9CW7MWUdfYnMjnRKg" // Segundo enlace de descarga
 
     },       
@@ -237,7 +237,7 @@ const juegos = [
         id: "Sonic Triple Trouble 16 bit",
         imgSrc: "assets/img/SONIC9.jpg",
         altText: "Sonic Triple Trouble 16 bit",
-        title: "Sonic Triple Trouble 16 bit.apk",
+        title: "Sonic Triple Trouble 16 bit (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1La6s0Nj5FLUI5OgEYo33QA" // Segundo enlace de descarga
         
     },       
@@ -245,7 +245,7 @@ const juegos = [
         id: "SONIC UNLEASHED",
         imgSrc: "assets/img/SONIC10.jpg",
         altText: "SONIC UNLEASHED",
-        title: "SONIC UNLEASHED.apk",
+        title: "SONIC UNLEASHED (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1LuLOKdvJHTwuRTjIOZ6OGQ" // Segundo enlace de descarga
 
     },       
@@ -269,7 +269,7 @@ const juegos = [
         id: "Super Mario 4 Jugadores Legacy",
         imgSrc: "assets/img/sm4legacy.jpg",
         altText: "Super Mario 4 Jugadores Legacy",
-        title: "Super Mario 4 Jugadores Legacy 2.0.5.apk",
+        title: "Super Mario 4 Jugadores Legacy 2.0.5 (Fangame).apk",
         downloadLink2: "https://terabox.com/s/1t8hxAFMDoY_wfbKDN2ucxA" // Segundo enlace de descarga
 
     },       
@@ -277,7 +277,7 @@ const juegos = [
         id: "Super Mario 4 Jugadores Online Battle",
         imgSrc: "assets/img/sm4jugadores.jpg",
         altText: "Super Mario 4 Jugadores Online Battle",
-        title: "Super Mario 4 Jugadores Online Battle 2.0.1.apk",
+        title: "Super Mario 4 Jugadores Online Battle 2.0.1 (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1HyvX_XA80-GE1ET8oweBKQ" // Segundo enlace de descarga
 
     },       
