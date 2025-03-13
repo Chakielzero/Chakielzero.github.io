@@ -97,6 +97,14 @@ const juegos = [
 
     },       
     {
+        id: "Luigi´s Mansion 2D",
+        imgSrc: "assets/img/luigi.jpg",
+        altText: "Luigi´s Mansion 2D",
+        title: "Luigi´s Mansion 2D.apk (Fangame) ",
+        downloadLink2: "https://terabox.com/s/1_8Is8GIcLLFusFfD8o0H_g" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Max Payne Mobile",
         imgSrc: "assets/img/max.jpg",
         altText: "Max Payne Mobile",
@@ -250,11 +258,19 @@ const juegos = [
 
     },       
     {
+        id: "Super Mario 2 HD",
+        imgSrc: "assets/img/mario.jpg",
+        altText: "Super Mario 2 HD",
+        title: "Super Mario 2 HD.apk (Fangame)",
+        downloadLink2: "https://terabox.com/s/18pipkjMIMMsi9lz49Vk0KQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Super Mario 4 Jugadores Legacy",
         imgSrc: "assets/img/sm4legacy.jpg",
         altText: "Super Mario 4 Jugadores Legacy",
-        title: "Super Mario 4 Jugadores Legacy 2.0.1.apk",
-        downloadLink2: "https://nephobox.com/s/1eWlkexssnaubLWl49zHk9w" // Segundo enlace de descarga
+        title: "Super Mario 4 Jugadores Legacy 2.0.5.apk",
+        downloadLink2: "https://terabox.com/s/1t8hxAFMDoY_wfbKDN2ucxA" // Segundo enlace de descarga
 
     },       
     {
@@ -263,6 +279,30 @@ const juegos = [
         altText: "Super Mario 4 Jugadores Online Battle",
         title: "Super Mario 4 Jugadores Online Battle 2.0.1.apk",
         downloadLink2: "https://nephobox.com/s/1HyvX_XA80-GE1ET8oweBKQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario Bros Remake A Plumber Journey",
+        imgSrc: "assets/img/marioremake.jpg",
+        altText: "Super Mario Bros Remake A Plumber Journey",
+        title: "Super Mario Bros Remake A Plumber Journey.apk (Fangame)",
+        downloadLink2: "https://terabox.com/s/1D5lXlx6JNGNoUjBvG7IN1g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario Maker World Engine",
+        imgSrc: "assets/img/mariomakerengine.jpg",
+        altText: "Super Mario Maker World Engine",
+        title: "Super Mario Maker World Engine 3.4.4.apk (Fangame)",
+        downloadLink2: "https://terabox.com/s/1Fqo5GK7LuxX7AJ2uo59bFg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario World 2D Deluxe",
+        imgSrc: "assets/img/mario2dworld.jpg",
+        altText: "Super Mario World 2D Deluxe",
+        title: "Super Mario World 2D Deluxe.apk (Fangame)",
+        downloadLink2: "https://terabox.com/s/19driGK0q3Lz85WjRDr6L-A" // Segundo enlace de descarga
 
     },       
     {
