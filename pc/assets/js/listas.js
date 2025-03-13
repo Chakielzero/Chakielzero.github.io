@@ -318,6 +318,22 @@ const juegos = [
         altText: "Street Fighter V",
         title: "Street Fighter V",
         downloadLink2: "https://terabox.com/s/1U8AauRRPPZ2ypJT7rL9uIQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario Bros Dimensions",
+        imgSrc: "assets/img/mariodimensions.jpg",
+        altText: "Super Mario Bros Dimensions",
+        title: "Super Mario Bros Dimensions Fangame+ Controles Winlator",
+        downloadLink2: "https://terabox.com/s/1TXaGfX3M8jHg1EKEnLqSxg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Super Mario Flashback",
+        imgSrc: "assets/img/marioflashback.jpg",
+        altText: "Super Mario Flashback",
+        title: "Super Mario Flashback Fangame+ Controles Winlator",
+        downloadLink2: "https://terabox.com/s/1D-lnPFuzqakcierLhZbbnQ" // Segundo enlace de descarga
         
     },       
     {
