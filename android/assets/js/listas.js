@@ -59,7 +59,7 @@ const juegos = [
         id: "Dragon Ball Figther Z Mobile",
         imgSrc: "assets/img/figtherz.jpg",
         altText: "Dragon Ball Figther Z Mobile",
-        title: "Dragon Ball Figther Z Mobile",
+        title: "Dragon Ball Figther Z Mobile.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1FL6vRTu4KrBHHC-Badqdyw" // Segundo enlace de descarga
 
     },       
@@ -203,7 +203,7 @@ const juegos = [
         id: "Power Warriors v18.2",
         imgSrc: "assets/img/power.jpg",
         altText: "Power Warriors v18.2",
-        title: "Power Warriors v18.2.apk",
+        title: "Power Warriors v18.2.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1rknbauHV_VQmdKgpkymbKQ" // Segundo enlace de descarga
 
     },       
@@ -211,7 +211,7 @@ const juegos = [
         id: "Pvz Fusion",
         imgSrc: "assets/img/pvzfusion.jpg",
         altText: "pvzfusion",
-        title: "Pvz Fusion 2.1.6.apk",
+        title: "Pvz Fusion 2.1.6.apk (Fangame)",
         downloadLink2: "https://nephobox.com/s/1QMqt3w3y1Dv7C6RpsQ3G1w" // Segundo enlace de descarga
 
     },       
@@ -227,7 +227,7 @@ const juegos = [
         id: "Saiyan Tournament God Warriors Dragon Z",
         imgSrc: "assets/img/saiyan.jpg",
         altText: "Saiyan Tournament God Warriors Dragon Z",
-        title: "Saiyan Tournament God Warriors Dragon Z.apk",
+        title: "Saiyan Tournament God Warriors Dragon Z.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1tnAL2LRLOujRsI6rJzmT3g" // Segundo enlace de descarga
 
     },       
@@ -412,7 +412,7 @@ const juegos = [
         id: "The Final Power Level Warrior",
         imgSrc: "assets/img/finalpower.jpg",
         altText: "The Final Power Level Warrior",
-        title: "The Final Power Level Warrior.apk",
+        title: "The Final Power Level Warrior.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1B0tO8_kefXa3Hyn6s2akcw" // Segundo enlace de descarga
 
     },       
@@ -420,7 +420,7 @@ const juegos = [
         id: "Ultimate Thunder BAFA alpha",
         imgSrc: "assets/img/bafa.jpg",
         altText: "Ultimate Thunder BAFA alpha 2.3",
-        title: "Ultimate Thunder BAFA alpha 2.3.apk",
+        title: "Ultimate Thunder BAFA alpha 2.3.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1P7JFk-TT1NwvOsB6EG6qXQ" // Segundo enlace de descarga
 
     },       
@@ -428,7 +428,7 @@ const juegos = [
         id: "Z LEGENDS 3",
         imgSrc: "assets/img/zlegends3.jpg",
         altText: "Z LEGENDS 3",
-        title: "Z LEGENDS 3 v.2.2.4.apk",
+        title: "Z LEGENDS 3 v.2.2.4.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1bHQKWkq51ryJNBZLrCJ4Mw" // Segundo enlace de descarga
 
     },       
@@ -436,7 +436,7 @@ const juegos = [
         id: "Zenkai Awakening-BETA2",
         imgSrc: "assets/img/zenkai.jpg",
         altText: "Zenkai Awakening-BETA2",
-        title: "Zenkai Awakening-BETA2.apk",
+        title: "Zenkai Awakening-BETA2.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1npSOkKLxzKpMeOvpq4FSJw" // Segundo enlace de descarga
     }
 ];
