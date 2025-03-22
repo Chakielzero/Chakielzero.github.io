@@ -1,5 +1,12 @@
 // Lista de juegos
 const juegos = [
+   {
+        id: "Angry Birds Space",
+        imgSrc: "assets/img/angryspace.jpg",
+        altText: "Angry Birds Space",
+        title: "Angry Birds Space Mod.apk",
+        downloadLink2: "https://terabox.com/s/1S1NXrxv1bYMR61485_h6Zw" // Segundo enlace de descarga
+    },       
     {
         id: "Bendy And The Ink Machine",
         imgSrc: "assets/img/bendy.jpg",
@@ -29,7 +36,7 @@ const juegos = [
         imgSrc: "assets/img/cuphead.jpg",
         altText: "Cuphead",
         title: "Cuphead Mobile.apk",
-        downloadLink2: "https://nephobox.com/s/1_MN4aGCsfnjs8rKLn8UUqA" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1e4rcQ_DRrVmHc4lzlPTb6g" // Segundo enlace de descarga
 
     },       
     {
@@ -38,6 +45,30 @@ const juegos = [
         altText: "Dead Cells",
         title: "Dead Cells 3.3.15.apk",
         downloadLink2: "https://nephobox.com/s/1-bxMqm7W4bp3riOfJNPBlQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dead Space Mobile",
+        imgSrc: "assets/img/deadspace.jpg",
+        altText: "Dead Space Mobile",
+        title: "Dead Space Mobile.apk (Android 15)",
+        downloadLink2: "https://terabox.com/s/1E60rfi3Ds_npKiyxyI1NnQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dragon Ball Figther Z Mobile",
+        imgSrc: "assets/img/figtherz.jpg",
+        altText: "Dragon Ball Figther Z Mobile",
+        title: "Dragon Ball Figther Z Mobile",
+        downloadLink2: "https://terabox.com/s/1FL6vRTu4KrBHHC-Badqdyw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Dream League Soccer 19",
+        imgSrc: "assets/img/dls19.jpg",
+        altText: "Dream League Soccer 19",
+        title: "Dream League Soccer 19.apk (Android 15)",
+        downloadLink2: "https://terabox.com/s/1f8PxcNOATKgmdSNewP0QNQ" // Segundo enlace de descarga
 
     },       
     {
@@ -54,6 +85,14 @@ const juegos = [
         altText: "DUCK TALES REMASTERED",
         title: "DUCK TALES REMASTERED.apk",
         downloadLink2: "https://nephobox.com/s/1-yHo4gVNS3zRnA0Hpy6Ebw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Formula Cartoon All-Stars Mod Money",
+        imgSrc: "assets/img/allstars.jpg",
+        altText: "Formula Cartoon All-Stars Mod Money",
+        title: "Formula Cartoon All-Stars Mod Money.apk",
+        downloadLink2: "https://terabox.com/s/1XFfqo0fLC_JTh5s0h2NHSQ" // Segundo enlace de descarga
 
     },       
     {
@@ -132,8 +171,24 @@ const juegos = [
         id: "Need For Speed Most Wanted 2012",
         imgSrc: "assets/img/nfsmost.jpg",
         altText: "Need For Speed Most Wanted 2012",
-        title: "Need For Speed Most Wanted 2012.apk +obb",
+        title: "Need For Speed Most Wanted 2012.apk +obb (Android 14)",
         downloadLink2: "https://nephobox.com/s/1dCoBhsHYkLzjro6CcS4-vA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "N.O.V.A 3",
+        imgSrc: "assets/img/nova3.jpg",
+        altText: "N.O.V.A 3",
+        title: "N.O.V.A 3.apk (Android 14)",
+        downloadLink2: "https://terabox.com/s/1fe7Y-nA2ReKHMEbc5aqr3g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Pizza Tower Atesquik",
+        imgSrc: "assets/img/pizzatower.jpg",
+        altText: "Pizza Tower Atesquik",
+        title: "Pizza Tower Atesquik.apk",
+        downloadLink2: "https://terabox.com/s/1RAEysNkbxhGp0bqKzACMqw" // Segundo enlace de descarga
 
     },       
     {
@@ -142,6 +197,14 @@ const juegos = [
         altText: "Poppy Playtime Chapter 3",
         title: "Poppy Playtime Chapter 3.apk",
         downloadLink2: "https://nephobox.com/s/1tauoHixENBA8nx_SbajafQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Power Warriors v18.2",
+        imgSrc: "assets/img/power.jpg",
+        altText: "Power Warriors v18.2",
+        title: "Power Warriors v18.2.apk",
+        downloadLink2: "https://terabox.com/s/1rknbauHV_VQmdKgpkymbKQ" // Segundo enlace de descarga
 
     },       
     {
@@ -158,6 +221,14 @@ const juegos = [
         altText: "Rain World",
         title: "Rain World.apk",
         downloadLink2: "https://nephobox.com/s/1j7tDPHOSnHyqDja-dDMWTg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Saiyan Tournament God Warriors Dragon Z",
+        imgSrc: "assets/img/saiyan.jpg",
+        altText: "Saiyan Tournament God Warriors Dragon Z",
+        title: "Saiyan Tournament God Warriors Dragon Z.apk",
+        downloadLink2: "https://terabox.com/s/1tnAL2LRLOujRsI6rJzmT3g" // Segundo enlace de descarga
 
     },       
     {
@@ -327,6 +398,46 @@ const juegos = [
         altText: "Terraria",
         title: "Terraria.apk",
         downloadLink2: "https://nephobox.com/s/1jwgGjZW4kkOG3sUvwkCxkQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "The Dark Knight Rises",
+        imgSrc: "assets/img/batman.jpg",
+        altText: "The Dark Knight Rises",
+        title: "The Dark Knight Rises.apk",
+        downloadLink2: "https://terabox.com/s/15kBDEtu1Wyi55fixrJjcGQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "The Final Power Level Warrior",
+        imgSrc: "assets/img/finalpower.jpg",
+        altText: "The Final Power Level Warrior",
+        title: "The Final Power Level Warrior.apk",
+        downloadLink2: "https://terabox.com/s/1B0tO8_kefXa3Hyn6s2akcw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Ultimate Thunder BAFA alpha",
+        imgSrc: "assets/img/bafa.jpg",
+        altText: "Ultimate Thunder BAFA alpha 2.3",
+        title: "Ultimate Thunder BAFA alpha 2.3.apk",
+        downloadLink2: "https://terabox.com/s/1P7JFk-TT1NwvOsB6EG6qXQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Z LEGENDS 3",
+        imgSrc: "assets/img/zlegends3.jpg",
+        altText: "Z LEGENDS 3",
+        title: "Z LEGENDS 3 v.2.2.4.apk",
+        downloadLink2: "https://terabox.com/s/1bHQKWkq51ryJNBZLrCJ4Mw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Zenkai Awakening-BETA2",
+        imgSrc: "assets/img/zenkai.jpg",
+        altText: "Zenkai Awakening-BETA2",
+        title: "Zenkai Awakening-BETA2.apk",
+        downloadLink2: "https://terabox.com/s/1npSOkKLxzKpMeOvpq4FSJw" // Segundo enlace de descarga
     }
 ];
 
