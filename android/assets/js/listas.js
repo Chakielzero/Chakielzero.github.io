@@ -88,6 +88,70 @@ const juegos = [
 
     },       
     {
+        id: "Five Nights at Freddy’s",
+        imgSrc: "assets/img/fnaf.jpg",
+        altText: "Five Nights at Freddy’s",
+        title: "Five Nights at Freddy’s.apk",
+        downloadLink2: "https://terabox.com/s/1-2WtheRIF34mripyIhcJzQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s 2",
+        imgSrc: "assets/img/fnaf2.jpg",
+        altText: "Five Nights at Freddy’s 2",
+        title: "Five Nights at Freddy’s 2",
+        downloadLink2: "https://terabox.com/s/1I0Lg2MiPCWHSDSP8kNUL4Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s 3",
+        imgSrc: "assets/img/fnaf3.jpg",
+        altText: "Five Nights at Freddy’s 3",
+        title: "Five Nights at Freddy’s 3.apk",
+        downloadLink2: "https://terabox.com/s/1Kp3OavwnxO5jmNBhVK6Pwg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s 4",
+        imgSrc: "assets/img/fnaf4.jpg",
+        altText: "Five Nights at Freddy’s 4",
+        title: "Five Nights at Freddy’s 4.apk",
+        downloadLink2: "https://terabox.com/s/16XcV9pSeRE_g0V20NBxnmg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s Sister Location",
+        imgSrc: "assets/img/fnafsister.jpg",
+        altText: "Five Nights at Freddy’s Sister Location",
+        title: "Five Nights at Freddy’s Sister Location.apk",
+        downloadLink2: "https://terabox.com/s/1kR6SgzRl_QXSfEw8wIlHsg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s 6 Pizzeria Simulator",
+        imgSrc: "assets/img/fnaf6.jpg",
+        altText: "Five Nights at Freddy’s 6 Pizzeria Simulator",
+        title: "Five Nights at Freddy’s 6 Pizzeria Simulator.apk)",
+        downloadLink2: "https://terabox.com/s/1vzlwo7AhRA_9BevAdvuyZg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s Ultimate Custom Night",
+        imgSrc: "assets/img/fnafultimate.jpg",
+        altText: "Five Nights at Freddy’s Ultimate Custom Night",
+        title: "Five Nights at Freddy’s Ultimate Custom Night.apk",
+        downloadLink2: "https://terabox.com/s/1ehAv2nyi6DEmYzGxpbznGg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Five Nights at Freddy’s AR Special Delivery",
+        imgSrc: "assets/img/power.jpg",
+        altText: "Five Nights at Freddy’s AR Special Delivery",
+        title: "Five Nights at Freddy’s AR Special Delivery",
+        downloadLink2: "https://terabox.com/s/1wyfkbBCeT_IiArCDuMX9Cg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Formula Cartoon All-Stars Mod Money",
         imgSrc: "assets/img/allstars.jpg",
         altText: "Formula Cartoon All-Stars Mod Money",
