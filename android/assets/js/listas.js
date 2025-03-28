@@ -8,6 +8,30 @@ const juegos = [
         downloadLink2: "https://terabox.com/s/1S1NXrxv1bYMR61485_h6Zw" // Segundo enlace de descarga
     },       
     {
+        id: "Angry Birds 2 Mod",
+        imgSrc: "assets/img/angry2.jpg",
+        altText: "Angry Birds 2 Mod",
+        title: "Angry Birds 2 Mod.apk",
+        downloadLink2: "https://terabox.com/s/1xuleW2mVTggQJaUoC09Okg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "ARK Mobile",
+        imgSrc: "assets/img/ark.jpg",
+        altText: "ARK Mobile",
+        title: "ARK Mobile Unlocked.apk",
+        downloadLink2: "https://terabox.com/s/1FkKFuFrU9nAg3g6eg120FQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Beach Buggy Racing 2 Mod",
+        imgSrc: "assets/img/buggy2.jpg",
+        altText: "Beach Buggy Racing 2 Mod",
+        title: "Beach Buggy Racing 2 Mod.apk",
+        downloadLink2: "https://terabox.com/s/1k_eZVRPtBnQhwgptvf2rPA" // Segundo enlace de descarga
+      
+    },       
+    {
         id: "Bendy And The Ink Machine",
         imgSrc: "assets/img/bendy.jpg",
         altText: "Bendy And The Ink Machine",
@@ -19,8 +43,8 @@ const juegos = [
         id: "Blasphemous",
         imgSrc: "assets/img/blas.jpg",
         altText: "Blasphemous",
-        title: "Blasphemous.apk",
-        downloadLink2: "https://nephobox.com/s/1n4bUi_Y_BRe6MOU1Ae1Q5Q" // Segundo enlace de descarga
+        title: "Blasphemous V1.2.apk",
+        downloadLink2: "https://terabox.com/s/1RaA_oHmCN3hLx46cjZmnHA" // Segundo enlace de descarga
 
     },       
     {
@@ -160,11 +184,27 @@ const juegos = [
 
     },       
     {
+        id: "Grid Autosport Mod",
+        imgSrc: "assets/img/grid.jpg",
+        altText: "Grid Autosport Mod",
+        title: "Grid Autosport Mod.apk",
+        downloadLink2: "https://terabox.com/s/1FBhUB5ZwH7ks3h-EGqHuwQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Half Life 2",
         imgSrc: "assets/img/hl2.jpg",
         altText: "Half Life 2",
         title: "Half Life 2",
         downloadLink2: "https://nephobox.com/s/1HgpII-mH0VnUrysJNDiwPw" // Segundo enlace de descarga
+       
+    },       
+    {
+        id: "Hill Climb Racing Mod",
+        imgSrc: "assets/img/hillclimb.jpg",
+        altText: "Hill Climb Racing Mod",
+        title: "Hill Climb Racing Mod.apk",
+        downloadLink2: "https://terabox.com/s/1Q23JhlQjOSurCM1l-iXZRw" // Segundo enlace de descarga
         
     },       
     {
@@ -184,11 +224,27 @@ const juegos = [
 
     },       
     {
+        id: "Jetpack Joyride Mod",
+        imgSrc: "assets/img/jetpack.jpg",
+        altText: "Jetpack Joyride Mod",
+        title: "Jetpack Joyride Mod.apk",
+        downloadLink2: "https://terabox.com/s/19WPrAvAbGucEBAu8zckpow" // Segundo enlace de descarga
+       
+    },       
+    {
         id: "Katana ZERO NETFLIX",
         imgSrc: "assets/img/kz.jpg",
         altText: "Katana ZERO",
         title: "Katana ZERO NETFLIX.apk",
         downloadLink2: "https://nephobox.com/s/1ahbLE4F6bkJOtYl9RW8SGw" // Segundo enlace de descarga
+       
+    },       
+    {
+        id: "LIMBO",
+        imgSrc: "assets/img/limbo.jpg",
+        altText: "LIMBO",
+        title: "LIMBO v1.21.apk",
+        downloadLink2: "https://terabox.com/s/16CKSDht2nw3D5Db6ErE9JQ" // Segundo enlace de descarga
 
     },       
     {
@@ -393,6 +449,14 @@ const juegos = [
 
     },       
     {
+        id: "Subway Surfers",
+        imgSrc: "assets/img/subway.jpg",
+        altText: "Subway Surfers",
+        title: "Subway Surfers Mod.apk",
+        downloadLink2: "https://terabox.com/s/1-tk6eNP0Z3oEbPDcR_7nhg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Super Mario 2 HD",
         imgSrc: "assets/img/mario.jpg",
         altText: "Super Mario 2 HD",
@@ -454,6 +518,14 @@ const juegos = [
         altText: "Super Meat Boy Forever",
         title: "Super Meat Boy Forever.apk",
         downloadLink2: "https://nephobox.com/s/1io-UTzUM_Gpq7PFHm6rZTA" // Segundo enlace de descarga
+       
+    },       
+    {
+        id: "Temple Run 2 Mod",
+        imgSrc: "assets/img/templerun.jpg",
+        altText: "Temple Run 2 Mod",
+        title: "Temple Run 2 Mod",
+        downloadLink2: "https://terabox.com/s/1_gHxYDZYmDc5hl8kEbcNXw" // Segundo enlace de descarga
 
     },       
     {
