@@ -1,5 +1,12 @@
 // Lista de juegos
-const juegos = [
+const juegos = [       
+    {
+        id: "Aethersx2",
+        imgSrc: "assets/img/aethersx2.jpg",
+        altText: "Aethersx2",
+        title: "Aethersx2 v3668.apk",
+        downloadLink2: "https://nephobox.com/s/1WHY7l0Niha8_y2zlZsRxQQ" // Segundo enlace de descarga
+   },
    {
         id: "Angry Birds Space",
         imgSrc: "assets/img/angryspace.jpg",
@@ -56,6 +63,22 @@ const juegos = [
 
     },       
     {
+        id: "Cemu Android",
+        imgSrc: "assets/img/cemu.jpg",
+        altText: "Cemu Android",
+        title: "Cemu Android",
+        downloadLink2: "https://nephobox.com/s/1-1H3eUzQ6epxeHWZFefczA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Citra MMJ",
+        imgSrc: "assets/img/mmj.jpg",
+        altText: "Citra MMJ",
+        title: "Citra MMJ.apk",
+        downloadLink2: "https://terabox.com/s/1YijcF41etlFJdIweS3fBfg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Cuphead Mobile",
         imgSrc: "assets/img/cuphead.jpg",
         altText: "Cuphead",
@@ -88,6 +111,14 @@ const juegos = [
 
     },       
     {
+        id: "Drastic",
+        imgSrc: "assets/img/drastic.jpg",
+        altText: "Drastic",
+        title: "Drastic.apk",
+        downloadLink2: "https://terabox.com/s/1jXPr_yuxy_pMeZRsgPPa6w" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Dream League Soccer 19",
         imgSrc: "assets/img/dls19.jpg",
         altText: "Dream League Soccer 19",
@@ -109,6 +140,14 @@ const juegos = [
         altText: "DUCK TALES REMASTERED",
         title: "DUCK TALES REMASTERED.apk",
         downloadLink2: "https://nephobox.com/s/1-yHo4gVNS3zRnA0Hpy6Ebw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "ePSXe",
+        imgSrc: "assets/img/EPSXE.jpg",
+        altText: "ePSXe",
+        title: "ePSXe.apk",
+        downloadLink2: "https://nephobox.com/s/1YfSZkM-je8v7gJRtj_ERTw" // Segundo enlace de descarga
 
     },       
     {
@@ -296,6 +335,14 @@ const juegos = [
 
     },       
     {
+        id: "Nethersx2 v1.9",
+        imgSrc: "assets/img/nether.jpg",
+        altText: "Nethersx2 v1.9",
+        title: "Nethersx2 v1.9.apk",
+        downloadLink2: "https://nephobox.com/s/1Yh7qqow9a5tnk7HzP-4EGA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "N.O.V.A 3",
         imgSrc: "assets/img/nova3.jpg",
         altText: "N.O.V.A 3",
@@ -344,11 +391,35 @@ const juegos = [
 
     },       
     {
+        id: "Retro Game Center",
+        imgSrc: "assets/img/retro.jpg",
+        altText: "Retro Game Center",
+        title: "Retro Game Center.apk",
+        downloadLink2: "https://nephobox.com/s/1pOtvDGM__g8fJehxMwK9Yg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Ryujinx Android",
+        imgSrc: "assets/img/ryujinx.jpg",
+        altText: "Ryujinx Android",
+        title: "Ryujinx Android.apk",
+        downloadLink2: "https://terabox.com/s/17PSpqGZnl222nQK53oT7Lg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Saiyan Tournament God Warriors Dragon Z",
         imgSrc: "assets/img/saiyan.jpg",
         altText: "Saiyan Tournament God Warriors Dragon Z",
         title: "Saiyan Tournament God Warriors Dragon Z.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1tnAL2LRLOujRsI6rJzmT3g" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Skyline Edge",
+        imgSrc: "assets/img/skyline.jpg",
+        altText: "Skyline Edge",
+        title: "Skyline Edge V72.apk",
+        downloadLink2: "https://terabox.com/s/1wzw4SzIW7CV_LX0EqoCFsw" // Segundo enlace de descarga
 
     },       
     {
@@ -558,6 +629,30 @@ const juegos = [
         altText: "Ultimate Thunder BAFA alpha 2.3",
         title: "Ultimate Thunder BAFA alpha 2.3.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1P7JFk-TT1NwvOsB6EG6qXQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Videogame Premium",
+        imgSrc: "assets/img/videogame.jpg",
+        altText: "Videogame Premium",
+        title: "Videogame Premium.apk",
+        downloadLink2: "https://nephobox.com/s/1-sDmVNnqVlfOeT3MkW4yrw" // Segundo enlace de descarga
+       
+    },       
+    {
+        id: "Vita3k",
+        imgSrc: "assets/img/limbo.jpg",
+        altText: "Vita3k",
+        title: "Vita3k V12.apk",
+        downloadLink2: "https://nephobox.com/s/12UENuOidFdgPJtTGP1NLaA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Yuzu Android",
+        imgSrc: "assets/img/yuzu.jpg",
+        altText: "Yuzu Android",
+        title: "Yuzu Android v278.apk",
+        downloadLink2: "https://terabox.com/s/1E1zrCDwVKYW818kDOJKsQQ" // Segundo enlace de descarga
 
     },       
     {
