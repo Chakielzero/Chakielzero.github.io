@@ -23,6 +23,14 @@ const juegos = [
 
     },       
     {
+        id: "APCS3E",
+        imgSrc: "assets/img/ap3.jpg",
+        altText: "APCS3E",
+        title: "APCS3E v0.9.apk",
+        downloadLink2: "https://terabox.com/s/1ym8HcnuFgFUOO_T9Cm-5Tg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "ARK Mobile",
         imgSrc: "assets/img/ark.jpg",
         altText: "ARK Mobile",
@@ -396,6 +404,14 @@ const juegos = [
         altText: "Retro Game Center",
         title: "Retro Game Center.apk",
         downloadLink2: "https://nephobox.com/s/1pOtvDGM__g8fJehxMwK9Yg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "RPCS3 ANDROID",
+        imgSrc: "assets/img/ps3.jpg",
+        altText: "RPCS3 ANDROID",
+        title: "RPCS3 ANDROID v5.2.apk",
+        downloadLink2: "https://terabox.com/s/1oy6EVJfu5FGeZE0G8pMXcg" // Segundo enlace de descarga
 
     },       
     {
