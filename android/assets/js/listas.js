@@ -67,7 +67,7 @@ const juegos = [
         imgSrc: "assets/img/cemu.jpg",
         altText: "Cemu Android",
         title: "Cemu Android",
-        downloadLink2: "https://nephobox.com/s/1-1H3eUzQ6epxeHWZFefczA" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1HVMJnZ0Foo2xnNgEZtR5pg" // Segundo enlace de descarga
 
     },       
     {
