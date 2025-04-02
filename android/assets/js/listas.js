@@ -721,7 +721,7 @@ const juegos = [
     },       
     {
         id: "Vita3k",
-        imgSrc: "assets/img/limbo.jpg",
+        imgSrc: "assets/img/vita3k.jpg",
         altText: "Vita3k",
         title: "Vita3k V12.apk",
         downloadLink2: "https://nephobox.com/s/12UENuOidFdgPJtTGP1NLaA" // Segundo enlace de descarga
