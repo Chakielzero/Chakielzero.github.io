@@ -39,6 +39,14 @@ const juegos = [
 
     },       
     {
+        id: "Art of Rally",
+        imgSrc: "assets/img/art.jpg",
+        altText: "Art of Rally",
+        title: "Art of Rally v1.0.7.apk",
+        downloadLink2: "https://terabox.com/s/1oSXrXOIEOhF6yX-6uxX1LQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Beach Buggy Racing 2 Mod",
         imgSrc: "assets/img/buggy2.jpg",
         altText: "Beach Buggy Racing 2 Mod",
@@ -60,6 +68,14 @@ const juegos = [
         altText: "Blasphemous",
         title: "Blasphemous V1.2.apk",
         downloadLink2: "https://terabox.com/s/1RaA_oHmCN3hLx46cjZmnHA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Bob Esponja: BFBB",
+        imgSrc: "assets/img/bob.jpg",
+        altText: "Bob Esponja: BFBB",
+        title: "Bob Esponja: BFBB.apk",
+        downloadLink2: "https://terabox.com/s/1yJYHZ29VKigGW2YaNnBeSg" // Segundo enlace de descarga
 
     },       
     {
@@ -239,6 +255,14 @@ const juegos = [
 
     },       
     {
+        id: "GRID LEGENDS",
+        imgSrc: "assets/img/gridle.jpg",
+        altText: "GRID LEGENDS",
+        title: "GRID LEGENDS.apk",
+        downloadLink2: "https://terabox.com/s/1pTc5sByaI0TLmWIe_E2iiw" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Half Life 2",
         imgSrc: "assets/img/hl2.jpg",
         altText: "Half Life 2",
@@ -252,6 +276,14 @@ const juegos = [
         altText: "Hill Climb Racing Mod",
         title: "Hill Climb Racing Mod.apk",
         downloadLink2: "https://terabox.com/s/1Q23JhlQjOSurCM1l-iXZRw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Hitman Blood Money Reprisal",
+        imgSrc: "assets/img/hitman.jpg",
+        altText: "Hitman Blood Money Reprisal",
+        title: "Hitman Blood Money Reprisal.apk",
+        downloadLink2: "https://terabox.com/s/1OFyHmzASURyjy6oKVrBohQ" // Segundo enlace de descarga
         
     },       
     {
@@ -284,6 +316,14 @@ const juegos = [
         altText: "Katana ZERO",
         title: "Katana ZERO NETFLIX.apk",
         downloadLink2: "https://nephobox.com/s/1ahbLE4F6bkJOtYl9RW8SGw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Lara Croft Guardian of Light",
+        imgSrc: "assets/img/lara.jpg",
+        altText: "Lara Croft Guardian of Light",
+        title: "Lara Croft Guardian of Light.apk",
+        downloadLink2: "https://terabox.com/s/1gM2XhGJCI4xtJsNV6ddhlg" // Segundo enlace de descarga
        
     },       
     {
@@ -436,6 +476,14 @@ const juegos = [
         altText: "Skyline Edge",
         title: "Skyline Edge V72.apk",
         downloadLink2: "https://terabox.com/s/1wzw4SzIW7CV_LX0EqoCFsw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Skul The Hero Slayer",
+        imgSrc: "assets/img/skul.jpg",
+        altText: "Skul The Hero Slayer",
+        title: "Skul The Hero Slayer.apk",
+        downloadLink2: "https://terabox.com/s/1DhRq5xGOQitUxxnyskmw5w" // Segundo enlace de descarga
 
     },       
     {
@@ -637,6 +685,14 @@ const juegos = [
         altText: "The Final Power Level Warrior",
         title: "The Final Power Level Warrior.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1B0tO8_kefXa3Hyn6s2akcw" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "TMNT Shedders Revenge",
+        imgSrc: "assets/img/tortugas.jpg",
+        altText: "TMNT Shedders Revenge",
+        title: "TMNT Shedders Revenge v1.1.2.apk",
+        downloadLink2: "https://terabox.com/s/1HPgP8Q1wwapGaRgqcKOabQ" // Segundo enlace de descarga
 
     },       
     {
