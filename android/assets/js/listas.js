@@ -458,8 +458,8 @@ const juegos = [
         id: "RPCS3 ANDROID",
         imgSrc: "assets/img/ps3.jpg",
         altText: "RPCS3 ANDROID",
-        title: "RPCS3 ANDROID v5.2.apk",
-        downloadLink2: "https://terabox.com/s/1oy6EVJfu5FGeZE0G8pMXcg" // Segundo enlace de descarga
+        title: "RPCS3 ANDROID v7.apk",
+        downloadLink2: "https://terabox.com/s/1rJ1odFsx5i1lzaPZZlqO0Q" // Segundo enlace de descarga
 
     },       
     {
