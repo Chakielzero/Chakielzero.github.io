@@ -439,6 +439,14 @@ const juegos = [
 
     },       
     {
+        id: "REPO MOBILE",
+        imgSrc: "assets/img/repo.jpg",
+        altText: "REPO MOBILE",
+        title: "REPO MOBILE (NO OFICIAL).apk",
+        downloadLink2: "https://terabox.com/s/1ABmNZQy6FIVBPSCQgICE1g" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Retro Game Center",
         imgSrc: "assets/img/retro.jpg",
         altText: "Retro Game Center",
