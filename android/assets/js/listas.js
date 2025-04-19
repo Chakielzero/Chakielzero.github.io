@@ -426,8 +426,8 @@ const juegos = [
         id: "Pvz Fusion",
         imgSrc: "assets/img/pvzfusion.jpg",
         altText: "pvzfusion",
-        title: "Pvz Fusion 2.1.6.apk (Fangame)",
-        downloadLink2: "https://nephobox.com/s/1QMqt3w3y1Dv7C6RpsQ3G1w" // Segundo enlace de descarga
+        title: "Pvz Fusion 2.4.1.apk (Fangame)",
+        downloadLink2: "https://terabox.com/s/1g_pZJlduItmBsbakavnNoA" // Segundo enlace de descarga
 
     },       
     {
