@@ -442,8 +442,8 @@ const juegos = [
         id: "REPO MOBILE",
         imgSrc: "assets/img/repo.jpg",
         altText: "REPO MOBILE",
-        title: "REPO MOBILE (NO OFICIAL).apk",
-        downloadLink2: "https://terabox.com/s/1ABmNZQy6FIVBPSCQgICE1g" // Segundo enlace de descarga
+        title: "REPO MOBILE PREMIUM SIN ANUNCIOS (NO OFICIAL).apk",
+        downloadLink2: "https://terabox.com/s/1w_SRzwvj-rgGXu2rxFf5rA" // Segundo enlace de descarga
 
     },       
     {
