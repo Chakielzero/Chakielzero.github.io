@@ -244,6 +244,22 @@ const juegos = [
         altText: "Formula Cartoon All-Stars Mod Money",
         title: "Formula Cartoon All-Stars Mod Money.apk",
         downloadLink2: "https://terabox.com/s/1XFfqo0fLC_JTh5s0h2NHSQ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "God Of War III",
+        imgSrc: "assets/img/gow3.jpg",
+        altText: "God Of War III",
+        title: "God Of War III (fangame).apk",
+        downloadLink2: "https://terabox.com/s/1i6W6P4jVed1SRAEX1DN1tA" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "Gran Theft Auto V",
+        imgSrc: "assets/img/gtav.jpg",
+        altText: "Gran Theft Auto V",
+        title: "Gran Theft Auto V V0.5 (fangame).apk",
+        downloadLink2: "https://terabox.com/s/1J0Mpd9OKksWUKNbpnZmn6w" // Segundo enlace de descarga
 
     },       
     {
@@ -268,6 +284,14 @@ const juegos = [
         altText: "Half Life 2",
         title: "Half Life 2",
         downloadLink2: "https://nephobox.com/s/1HgpII-mH0VnUrysJNDiwPw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Halo CE",
+        imgSrc: "assets/img/halo.jpg",
+        altText: "Halo CE",
+        title: "Halo CE V8.5 (fangame).apk",
+        downloadLink2: "https://terabox.com/s/1cNb7c0IW5MgA-RF3u1x1RA" // Segundo enlace de descarga
        
     },       
     {
@@ -447,6 +471,14 @@ const juegos = [
 
     },       
     {
+        id: "Resident Evil 4 Remake",
+        imgSrc: "assets/img/re4.jpg",
+        altText: "Resident Evil 4 Remake",
+        title: "Resident Evil 4 Remake (fangame).apk",
+        downloadLink2: "https://terabox.com/s/16Delch8UV1z0AGqFvIpFVA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Retro Game Center",
         imgSrc: "assets/img/retro.jpg",
         altText: "Retro Game Center",
@@ -492,6 +524,14 @@ const juegos = [
         altText: "Skul The Hero Slayer",
         title: "Skul The Hero Slayer.apk",
         downloadLink2: "https://terabox.com/s/1DhRq5xGOQitUxxnyskmw5w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Slime Rancher",
+        imgSrc: "assets/img/slime.jpg",
+        altText: "Slime Rancher",
+        title: "Slime Rancher (fangame).apk",
+        downloadLink2: "https://terabox.com/s/1XQrj1J8Vh6LUADpvtJmejw" // Segundo enlace de descarga
 
     },       
     {
@@ -581,6 +621,14 @@ const juegos = [
         altText: "SONIC UNLEASHED",
         title: "SONIC UNLEASHED (Fangame).apk",
         downloadLink2: "https://nephobox.com/s/1LuLOKdvJHTwuRTjIOZ6OGQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Spider Man Miles Morales",
+        imgSrc: "assets/img/miles.jpg",
+        altText: "Spider Man Miles Morales",
+        title: "Spider Man Miles Morales V4 (Fangame).apk",
+        downloadLink2: "https://terabox.com/s/190ve3VWraFq5J--7EeO1KA" // Segundo enlace de descarga
 
     },       
     {
