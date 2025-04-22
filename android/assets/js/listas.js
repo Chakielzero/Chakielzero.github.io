@@ -407,11 +407,11 @@ const juegos = [
 
     },       
     {
-        id: "Nethersx2 v1.9",
+        id: "Nethersx2 v2.0",
         imgSrc: "assets/img/nether.jpg",
         altText: "Nethersx2 v1.9",
         title: "Nethersx2 v1.9.apk",
-        downloadLink2: "https://nephobox.com/s/1Yh7qqow9a5tnk7HzP-4EGA" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/195vQYDcfXrHQKm2WrlBu_w" // Segundo enlace de descarga
 
     },       
     {
