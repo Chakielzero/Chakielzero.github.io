@@ -495,6 +495,14 @@ const juegos = [
 
     },       
     {
+        id: "RPCSX ANDROID",
+        imgSrc: "assets/img/rpcsx.jpg",
+        altText: "RPCSX ANDROID",
+        title: "RPCSX ANDROID.apk",
+        downloadLink2: "https://terabox.com/s/1WYsIBDWVrZkw9p_YHkg3nA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Ryujinx Android",
         imgSrc: "assets/img/ryujinx.jpg",
         altText: "Ryujinx Android",
