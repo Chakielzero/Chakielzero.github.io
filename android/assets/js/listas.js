@@ -409,8 +409,8 @@ const juegos = [
     {
         id: "Nethersx2 v2.0",
         imgSrc: "assets/img/nether.jpg",
-        altText: "Nethersx2 v1.9",
-        title: "Nethersx2 v1.9.apk",
+        altText: "Nethersx2 v2.0",
+        title: "Nethersx2 v2.0.apk",
         downloadLink2: "https://terabox.com/s/195vQYDcfXrHQKm2WrlBu_w" // Segundo enlace de descarga
 
     },       
