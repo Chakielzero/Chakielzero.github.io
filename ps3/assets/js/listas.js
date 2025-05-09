@@ -38,6 +38,70 @@ const juegos = [
         altText: "Burnout Paradise (USA)",
         title: "Burnout Paradise (USA).iso",
         downloadLink2: "https://terabox.com/s/1acAfI6keVGphon5Hso0PhQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Clow Tower 3 - PS2",
+        imgSrc: "assets/img/clowtower3.jpg",
+        altText: "Clow Tower 3 - PS2",
+        title: "Clow Tower 3 - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1ibuWZt5L48S3hVcV_6nlsA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash Bandicoot 4 The Wrath of Cortex - PS2",
+        imgSrc: "assets/img/chashwrath.jpg",
+        altText: "Crash Bandicoot 4 The Wrath of Cortex - PS2",
+        title: "Crash Bandicoot 4 The Wrath of Cortex - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1ktjS17YDpO-MrQjAxI9U2w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash Guerra al Coco Maniaco! - PS2",
+        imgSrc: "assets/img/chashcoco.jpg",
+        altText: "Chash Guerra al Coco Maniaco! - PS2",
+        title: "Chash Guerra al Coco Maniaco! - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1vD0RhY-xmmwcY_8BJtCahg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash Nitro Kart - PS2",
+        imgSrc: "assets/img/chashkart.jpg",
+        altText: "Crash Nitro Kart - PS2",
+        title: "Crash Nitro Kart - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1jhsVwqM3bMft_RW9ntSBUQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash Twinsanity - PS2",
+        imgSrc: "assets/img/chashtwi.jpg",
+        altText: "Crash Twinsanity - PS2",
+        title: "Crash Twinsanity - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1-5IAFxaAF84usRc5xrR9QQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash Tag Team Racing - PS2",
+        imgSrc: "assets/img/chashracing.jpg",
+        altText: "Crash Tag Team Racing - PS2",
+        title: "Crash Tag Team Racing - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/15uX0Qe_oWRCpC3l6A-Ynng" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Crash of the Titans - PS2",
+        imgSrc: "assets/img/chashtitans.jpg",
+        altText: "Crash of the Titans - PS2",
+        title: "Crash of the Titans - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1EeMBM-KXyt6bFShJjkG-iA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Def Jam Fight for NY - PS2",
+        imgSrc: "assets/img/defjam.jpg",
+        altText: "Def Jam Fight for NY - PS2",
+        title: "Def Jam Fight for NY - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1C-M_ozeApw-i5CL4A92xuA" // Segundo enlace de descarga
         
     },       
     {
@@ -198,6 +262,14 @@ const juegos = [
         altText: "Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)",
         title: "Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo).pkg",
         downloadLink2: "https://terabox.com/s/12JGDXJ7dCAEJEMVraBIe_w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Need For Speed Underground 2 - PS2",
+        imgSrc: "assets/img/nfsunder2.jpg",
+        altText: "Need For Speed Underground 2 - PS2",
+        title: "Need For Speed Underground 2 - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1GbPX1FtznyNGTP3f_bewsw" // Segundo enlace de descarga
         
     },       
     {
@@ -294,6 +366,14 @@ const juegos = [
         altText: "X-Men Origins Wolverine Uncaged Edition",
         title: "X-Men Origins Wolverine Uncaged Edition.iso",
         downloadLink2: "https://terabox.com/s/1qords7mH1ex5Tt23lQ2KxA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Yakuza 2 - PS2",
+        imgSrc: "assets/img/yakuza2.jpg",
+        altText: "Yakuza 2 - PS2",
+        title: "Yakuza 2 - PS2.pkg",
+        downloadLink2: "https://terabox.com/s/1mm2hMwlQY6F0_k9LiJ3hZA" // Segundo enlace de descarga
     },
 ];
 
