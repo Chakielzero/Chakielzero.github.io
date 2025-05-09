@@ -58,7 +58,7 @@ const juegos = [
     },       
     {
         id: "Crash Guerra al Coco Maniaco! - PS2",
-        imgSrc: "assets/img/chashcoco.jpg",
+        imgSrc: "assets/img/crashcoco.jpg",
         altText: "Chash Guerra al Coco Maniaco! - PS2",
         title: "Chash Guerra al Coco Maniaco! - PS2.pkg",
         downloadLink2: "https://terabox.com/s/1vD0RhY-xmmwcY_8BJtCahg" // Segundo enlace de descarga
