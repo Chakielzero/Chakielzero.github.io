@@ -79,6 +79,14 @@ const juegos = [
 
     },       
     {
+        id: "Bright Memory Infinite",
+        imgSrc: "assets/img/bright.jpg",
+        altText: "Bright Memory Infinite",
+        title: "Bright Memory Infinite.apk",
+        downloadLink2: "https://terabox.com/s/1LfwMqp3AoRmU0guspiAd1Q" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Bully",
         imgSrc: "assets/img/bully.jpg",
         altText: "Bully",
@@ -263,6 +271,14 @@ const juegos = [
 
     },       
     {
+        id: "Gran Theft Auto Vice City Netflix",
+        imgSrc: "assets/img/gtavc.jpg",
+        altText: "Gran Theft Auto Vice City Netflix",
+        title: "Gran Theft Auto Vice City Netflix.apk",
+        downloadLink2: "https://terabox.com/s/1P2c0KgHm4BPTWfs0zLOh9Q" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Grid Autosport Mod",
         imgSrc: "assets/img/grid.jpg",
         altText: "Grid Autosport Mod",
@@ -444,6 +460,14 @@ const juegos = [
         altText: "Power Warriors v18.2",
         title: "Power Warriors v18.2.apk (Fangame)",
         downloadLink2: "https://terabox.com/s/1rknbauHV_VQmdKgpkymbKQ" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Prince of the Persia Lost Crown",
+        imgSrc: "assets/img/prince.jpg",
+        altText: "Prince of the Persia Lost Crown",
+        title: "Prince of the Persia Lost Crown.apk",
+        downloadLink2: "https://terabox.com/s/1tXcm6JpHm0lnQayFlQxmBA" // Segundo enlace de descarga
 
     },       
     {
