@@ -57,6 +57,14 @@ const juegos = [
 
     },       
     {
+        id: "Days Gone",
+        imgSrc: "assets/img/daysgone.jpg",
+        altText: "Days Gone",
+        title: "Days Gone",
+        downloadLink2: "https://terabox.com/s/1D8txaOgG6dTDlASVC8qstg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Dead Space 2",
         imgSrc: "assets/img/dead2.jpg",
         altText: "Dead Space 2",
@@ -86,6 +94,14 @@ const juegos = [
         altText: "Devil May Cry 5",
         title: "Devil May Cry 5",
         downloadLink2: "https://nephobox.com/s/1m2k1spoYZX5Co3xiQDYicA" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "DOOM 2016",
+        imgSrc: "assets/img/doom.jpg",
+        altText: "DOOM 2016",
+        title: "DOOM 2016",
+        downloadLink2: "https://terabox.com/s/1IBxYroMtY5YCQtB0pZMB0w" // Segundo enlace de descarga
 
     },       
     {
@@ -193,6 +209,14 @@ const juegos = [
 
     },       
     {
+        id: "Metro 2033 Redux",
+        imgSrc: "assets/img/metro.jpg",
+        altText: "Metro 2033 Redux",
+        title: "Metro 2033 Redux",
+        downloadLink2: "https://terabox.com/s/1CDbk11fibEQ3hEJrCyEQUQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "MiSide",
         imgSrc: "assets/img/miside.jpg",
         altText: "MiSide",
@@ -286,6 +310,22 @@ const juegos = [
         altText: "Saints Row: The Third",
         title: "Saints Row: The Third",
         downloadLink2: "https://nephobox.com/s/1l-tMy48d67WNkHqFx06UFw" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Shadow of the Tomb Raider Definitive Edition",
+        imgSrc: "assets/img/shadow.jpg",
+        altText: "Shadow of the Tomb Raider Definitive Edition",
+        title: "Shadow of the Tomb Raider Definitive Edition",
+        downloadLink2: "https://terabox.com/s/1yfpklrKFuoNsNPlDpUDRWg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Silent Hill 2 Remake",
+        imgSrc: "assets/img/silent.jpg",
+        altText: "Silent Hill 2 Remake",
+        title: "Silent Hill 2 Remake",
+        downloadLink2: "https://terabox.com/s/1zo1JCkQvK314gWRDS6CvQw" // Segundo enlace de descarga
         
     },       
     {
