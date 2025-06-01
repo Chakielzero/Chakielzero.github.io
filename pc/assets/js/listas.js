@@ -313,6 +313,14 @@ const juegos = [
 
     },       
     {
+        id: "Sekiro Shadows Die Twice GOTY Edition",
+        imgSrc: "assets/img/sekiro.jpg",
+        altText: "Sekiro Shadows Die Twice GOTY Edition",
+        title: "Sekiro Shadows Die Twice GOTY Edition",
+        downloadLink2: "https://terabox.com/s/1P0mgGmWexmj0Ei6_gM65JA" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Shadow of the Tomb Raider Definitive Edition",
         imgSrc: "assets/img/shadow.jpg",
         altText: "Shadow of the Tomb Raider Definitive Edition",
