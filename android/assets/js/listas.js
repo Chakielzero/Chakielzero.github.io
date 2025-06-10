@@ -176,7 +176,7 @@ const juegos = [
     },       
     {
         id: "Egg Ns",
-        imgSrc: "assets/img/doom.jpg",
+        imgSrc: "assets/img/eggns.jpg",
         altText: "Egg NS",
         title: "Egg NS 5.1.1.apk",
         downloadLink2: "https://1024terabox.com/s/1J1eYwfXMX5ib-qKGlXJ18A" // Segundo enlace de descarga
