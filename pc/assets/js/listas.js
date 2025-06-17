@@ -153,6 +153,14 @@ const juegos = [
 
     },       
     {
+        id: "Five Nights at Freddy's: The Secret of the Mimic",
+        imgSrc: "assets/img/fnafmimic.jpg",
+        altText: "Five Nights at Freddy's: The Secret of the Mimic",
+        title: "Five Nights at Freddy's: The Secret of the Mimic",
+        downloadLink2: "https://terabox.com/s/1rLAui08QIanbfXKXNkOSjg" // Segundo enlace de descarga   
+
+    },       
+    {
         id: "God of War",
         imgSrc: "assets/img/gow.jpg",
         altText: "God of War",
@@ -182,6 +190,22 @@ const juegos = [
         altText: "Hollow Knight Godmaster",
         title: "Hollow Knight Godmaster",
         downloadLink2: "https://nephobox.com/s/1sO8HCf33lsuV0jOSUuTW1A" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Just Cause 2",
+        imgSrc: "assets/img/justcause2.jpg",
+        altText: "Just Cause 2",
+        title: "Just Cause 2",
+        downloadLink2: "https://terabox.com/s/1-piRXRf1LnVkLOKvisaF3w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Kingdom Hearts III",
+        imgSrc: "assets/img/kh3.jpg",
+        altText: "Kingdom Hearts III",
+        title: "Kingdom Hearts III",
+        downloadLink2: "https://terabox.com/s/1GO8PkbnrcB-s9Nv5T4h_ew" // Segundo enlace de descarga
 
     },       
     {
@@ -254,6 +278,22 @@ const juegos = [
         altText: "Need for Speed Underground 2",
         title: "Need for Speed Underground 2",
         downloadLink2: "https://nephobox.com/s/1seFaeszjpcr0djA2NLLQ1Q" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Nier Automata",
+        imgSrc: "assets/img/nier.jpg",
+        altText: "Nier Automata",
+        title: "Nier Automata",
+        downloadLink2: "https://terabox.com/s/1osOhEAWC9Vd3QmguUVW5gg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "No Man´s Sky",
+        imgSrc: "assets/img/nomansky.jpg",
+        altText: "No Man´s Sky",
+        title: "No Man´s Sky",
+        downloadLink2: "https://terabox.com/s/1XHg6EZqbOzfPqztT1Yh03A" // Segundo enlace de descarga
         
     },       
     {
@@ -398,6 +438,14 @@ const juegos = [
         altText: "The Amazing Spider Man 2",
         title: "The Amazing Spider Man 2",
         downloadLink2: "https://nephobox.com/s/1O3KWhVAeTDP0O8r7fSSwdQ" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "The Evil Within",
+        imgSrc: "assets/img/evil.jpg",
+        altText: "The Evil Within",
+        title: "The Evil Within",
+        downloadLink2: "https://terabox.com/s/1eGQ4kh60mHDJh-eDPl5A0g" // Segundo enlace de descarga
 
     },       
     {
@@ -406,6 +454,14 @@ const juegos = [
         altText: "The Legend of Korra",
         title: "The Legend of Korra",
         downloadLink2: "https://terabox.com/s/1lhHZyzd8KcROwKhqwCs8Kw" // Segundo enlace de descarga
+        
+    },       
+    {
+        id: "The Witcher 3",
+        imgSrc: "assets/img/witcher3.jpg",
+        altText: "The Witcher 3",
+        title: "The Witcher 3",
+        downloadLink2: "https://terabox.com/s/1pFxcJglip4IDxj6hnIonFg" // Segundo enlace de descarga
     }
 ];
 
