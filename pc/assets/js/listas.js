@@ -458,7 +458,7 @@ const juegos = [
     },       
     {
         id: "The Witcher 3",
-        imgSrc: "assets/img/witcher3.jpg",
+        imgSrc: "assets/img/witcher.jpg",
         altText: "The Witcher 3",
         title: "The Witcher 3",
         downloadLink2: "https://terabox.com/s/1pFxcJglip4IDxj6hnIonFg" // Segundo enlace de descarga
