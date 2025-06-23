@@ -313,6 +313,14 @@ const juegos = [
 
     },       
     {
+        id: "Resident Evil 2 Remake",
+        imgSrc: "assets/img/re2.jpg",
+        altText: "Resident Evil 2 Remake",
+        title: "Resident Evil 2 Remake DX11",
+        downloadLink2: "https://terabox.com/s/1M2rH6UufMdMExGKnYgEQJQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Resident Evil 3 Remake",
         imgSrc: "assets/img/residentevil3remake.jpg",
         altText: "Resident Evil 3 Remake",
