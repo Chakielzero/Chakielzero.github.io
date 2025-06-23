@@ -528,14 +528,6 @@ const juegos = [
 
     },       
     {
-        id: "Need for Speed - Underground 2",
-        imgSrc: "assets/img/nfsunder2.jpg",
-        altText: "Need for Speed - Underground",
-        title: "Need for Speed - Underground 2 (USA).chd",
-        downloadLink2: "https://nephobox.com/s/1-tC_BlK8qcvtmAtjKC7bYg" // Segundo enlace de descarga
-
-    },       
-    {
         id: "Pro Evolution Soccer 3",
         imgSrc: "assets/img/pes3.jpg",
         altText: "Pro Evolution Soccer 3",
