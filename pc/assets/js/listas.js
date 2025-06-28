@@ -9,6 +9,14 @@ const juegos = [
 
     },       
     {
+        id: "Alone In The Dark",
+        imgSrc: "assets/img/alone.jpg",
+        altText: "Alone In The Dark",
+        title: "Alone In The Dark",
+        downloadLink2: "https://terabox.com/s/1n0mT_DM6yLnnmxjra-X-sw" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Assassin's Creed Rogue",
         imgSrc: "assets/img/assarogue.jpg",
         altText: "Assassin's Creed Rogue",
@@ -30,6 +38,14 @@ const juegos = [
         altText: "Batman Arkham Asylum GOTY",
         title: "Batman Arkham Asylum GOTY",
         downloadLink2: "https://terabox.com/s/14QYoqdpMxP9ppGtHppOxIg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Control Ultimate Edition",
+        imgSrc: "assets/img/control.jpg",
+        altText: "Control Ultimate Edition",
+        title: "Control Ultimate Edition",
+        downloadLink2: "https://terabox.com/s/1vSvx9h6GVuX_6bliskQ95g" // Segundo enlace de descarga
 
     },       
     {
@@ -193,11 +209,27 @@ const juegos = [
 
     },       
     {
+        id: "It Take Two",
+        imgSrc: "assets/img/takestwo.jpg",
+        altText: "It Take Two",
+        title: "It Take Two",
+        downloadLink2: "https://terabox.com/s/12VQUTW0VOIauQ7yrltK0fw" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Just Cause 2",
         imgSrc: "assets/img/justcause2.jpg",
         altText: "Just Cause 2",
         title: "Just Cause 2",
         downloadLink2: "https://terabox.com/s/1-piRXRf1LnVkLOKvisaF3w" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Kena: Bridge of Spirits",
+        imgSrc: "assets/img/kena.jpg",
+        altText: "Kena: Bridge of Spirits",
+        title: "Kena: Bridge of Spirits",
+        downloadLink2: "https://terabox.com/s/18Kjxfmm9y7Fmso-SRX1yvw" // Segundo enlace de descarga
 
     },       
     {
