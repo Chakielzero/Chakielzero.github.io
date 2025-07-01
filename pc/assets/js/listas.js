@@ -41,6 +41,14 @@ const juegos = [
 
     },       
     {
+        id: "Batman Arkham Knight",
+        imgSrc: "assets/img/batman.jpg",
+        altText: "Batman Arkham Knight",
+        title: "Batman Arkham Knight",
+        downloadLink2: "https://terabox.com/s/1pLC0_QKP-d3arKwQmQq1cQ" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Control Ultimate Edition",
         imgSrc: "assets/img/control.jpg",
         altText: "Control Ultimate Edition",
@@ -369,6 +377,14 @@ const juegos = [
 
     },       
     {
+        id: "Resident Evil 7 DX11",
+        imgSrc: "assets/img/re7.jpg",
+        altText: "Resident Evil 7 DX11",
+        title: "Resident Evil 7 DX11",
+        downloadLink2: "https://terabox.com/s/1x9WayWENXdq2jPf-frhvyg" // Segundo enlace de descarga
+
+    },       
+    {
         id: "Resident Evil Revelation Complete",
         imgSrc: "assets/img/rereve.jpg",
         altText: "Resident Evil Revelation Complete",
@@ -502,6 +518,14 @@ const juegos = [
         altText: "The Witcher 3",
         title: "The Witcher 3",
         downloadLink2: "https://terabox.com/s/1pFxcJglip4IDxj6hnIonFg" // Segundo enlace de descarga
+
+    },       
+    {
+        id: "Yakuza 0",
+        imgSrc: "assets/img/yakuza.jpg",
+        altText: "Yakuza 0",
+        title: "Yakuza 0",
+        downloadLink2: "ffff" // Segundo enlace de descarga
     }
 ];
 
