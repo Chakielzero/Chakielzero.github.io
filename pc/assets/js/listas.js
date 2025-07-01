@@ -525,7 +525,7 @@ const juegos = [
         imgSrc: "assets/img/yakuza.jpg",
         altText: "Yakuza 0",
         title: "Yakuza 0",
-        downloadLink2: "ffff" // Segundo enlace de descarga
+        downloadLink2: "https://terabox.com/s/1GMm0CWZPUVY8JaCTzwRrTA" // Segundo enlace de descarga
     }
 ];
 
